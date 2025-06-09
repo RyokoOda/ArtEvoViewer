@@ -1,9 +1,12 @@
 # ArtEvoViewer
 
 This is a system for visualizing the influence relationships between Western artists.
-![The system overview](./overview.pdf)
-
-## how to run
+<br>
+<br>
+![The system overview](./overview.png)
+<br>
+<br>
+## How to run
 1. Clone this repository
    ```
    $ git clone https://github.com/RyokoOda/ArtEvoViewer.git
