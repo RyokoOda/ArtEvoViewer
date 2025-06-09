@@ -11,7 +11,7 @@ This is a system for visualizing the influence relationships between Western art
    ```
    $ git clone https://github.com/RyokoOda/ArtEvoViewer.git
    ```
-2. Move this directory   
+2. Move to this directory
 3. Create a virtual environment with conda
    ```
    $ conda create -n ArtEvoViewer python==3.11
