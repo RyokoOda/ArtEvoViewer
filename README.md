@@ -1,7 +1,7 @@
 # ArtEvoViewer
 
 This is a system for visualizing the influence relationships between Western artists.
-
+![The system overview](./overview.pdf)
 
 ## how to run
 1. Clone this repository
