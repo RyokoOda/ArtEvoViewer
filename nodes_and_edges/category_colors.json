@@ -1,0 +1,42 @@
+{
+    "artstyle": {
+      "renaissance":        "rgb(57,59,121)",
+      "baroque":            "rgb(82,84,163)",
+      "dutch-golden-age":   "rgb(107,110,207)",
+  
+      "rococo":             "rgb(99,121,57)",
+      "neoclassicism":      "rgb(140,162,82)",
+      "romanticism":        "rgb(181,207,107)",
+  
+      "realism":            "rgb(140,109,49)",
+      "academic-art":       "rgb(189,158,57)",
+      "impressionism":      "rgb(231,186,82)",
+      "post-impressionism": "rgb(231,203,148)",
+  
+      "symbolism":          "rgb(132,60,57)",
+      "art-nouveau":        "rgb(173,73,74)",
+      "expressionism":      "rgb(214,97,107)",
+      "cubism":             "rgb(231,150,156)",
+  
+      "abstract-art":       "rgb(123,65,115)",
+      "surrealism":         "rgb(165,81,148)",
+      "abstract-expressionism": "rgb(206,109,189)"
+    },
+
+    "nationality": {
+      "french":     "rgb(70,141,70)",
+      "american":   "rgb(255,140,0)",
+      "italian":    "rgb(80,100,180)",
+      "british":    "rgb(128,0,128)", 
+      "russian":    "rgb(200,60,60)",
+      "german":     "rgb(92,158,92)",
+      "dutch":      "rgb(114,175,114)",
+      "spanish":    "rgb(90,130,200)",
+      "flemish":    "rgb(136,192,136)",
+      "jewish":     "rgb(215,90,90)",
+      "ukrainian":  "rgb(230,120,120)",
+      "armenian":   "rgb(245,150,150)",
+      "austrian":   "rgb(158,209,158)"
+    }
+}
+  

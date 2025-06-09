@@ -1,0 +1,4486 @@
+{
+    "0": {
+        "formar_id": 0,
+        "name": "aaron-douglas"
+    },
+    "24": {
+        "formar_id": 24,
+        "name": "albert-bloch"
+    },
+    "1": {
+        "formar_id": 1,
+        "name": "aaron-shikler"
+    },
+    "936": {
+        "formar_id": 942,
+        "name": "remedios-varo"
+    },
+    "2": {
+        "formar_id": 2,
+        "name": "abbott-handerson-thayer"
+    },
+    "593": {
+        "formar_id": 599,
+        "name": "jehan-georges-vibert"
+    },
+    "3": {
+        "formar_id": 3,
+        "name": "ad-reinhardt"
+    },
+    "1000": {
+        "formar_id": 1006,
+        "name": "sonia-delaunay"
+    },
+    "4": {
+        "formar_id": 4,
+        "name": "adam-elsheimer"
+    },
+    "154": {
+        "formar_id": 154,
+        "name": "bernardo-strozzi"
+    },
+    "5": {
+        "formar_id": 5,
+        "name": "adam-van-der-meulen"
+    },
+    "212": {
+        "formar_id": 213,
+        "name": "claude-lorrain"
+    },
+    "6": {
+        "formar_id": 6,
+        "name": "adolf-dietrich"
+    },
+    "242": {
+        "formar_id": 243,
+        "name": "dmitry-nalbandyan"
+    },
+    "7": {
+        "formar_id": 7,
+        "name": "adolf-eberle"
+    },
+    "354": {
+        "formar_id": 357,
+        "name": "franz-xaver-winterhalter"
+    },
+    "8": {
+        "formar_id": 8,
+        "name": "adolph-gottlieb"
+    },
+    "224": {
+        "formar_id": 225,
+        "name": "cy-twombly"
+    },
+    "9": {
+        "formar_id": 9,
+        "name": "adolph-menzel"
+    },
+    "978": {
+        "formar_id": 984,
+        "name": "samuel-morse"
+    },
+    "10": {
+        "formar_id": 10,
+        "name": "adolphe-joseph-thomas-monticelli"
+    },
+    "479": {
+        "formar_id": 483,
+        "name": "henri-fantin-latour"
+    },
+    "11": {
+        "formar_id": 11,
+        "name": "adriaen-brouwer"
+    },
+    "831": {
+        "formar_id": 837,
+        "name": "nicolas-poussin"
+    },
+    "12": {
+        "formar_id": 12,
+        "name": "adriaen-van-de-velde"
+    },
+    "13": {
+        "formar_id": 13,
+        "name": "adriaen-van-de-venne"
+    },
+    "733": {
+        "formar_id": 739,
+        "name": "luca-signorelli"
+    },
+    "14": {
+        "formar_id": 14,
+        "name": "adriaen-van-ostade"
+    },
+    "476": {
+        "formar_id": 480,
+        "name": "hendrick-terbrugghen"
+    },
+    "15": {
+        "formar_id": 15,
+        "name": "aelbert-cuyp"
+    },
+    "553": {
+        "formar_id": 558,
+        "name": "jan-dirksz-both"
+    },
+    "16": {
+        "formar_id": 16,
+        "name": "agnes-lawrence-pelton"
+    },
+    "874": {
+        "formar_id": 880,
+        "name": "paul-delvaux"
+    },
+    "17": {
+        "formar_id": 17,
+        "name": "agnes-martin"
+    },
+    "967": {
+        "formar_id": 973,
+        "name": "roy-lichtenstein"
+    },
+    "18": {
+        "formar_id": 18,
+        "name": "agnolo-bronzino"
+    },
+    "722": {
+        "formar_id": 728,
+        "name": "lorenzo-lotto"
+    },
+    "19": {
+        "formar_id": 19,
+        "name": "agostino-carracci"
+    },
+    "564": {
+        "formar_id": 569,
+        "name": "jan-van-hemessen"
+    },
+    "20": {
+        "formar_id": 20,
+        "name": "akseli-gallen-kallela"
+    },
+    "1055": {
+        "formar_id": 1062,
+        "name": "victor-borisov-musatov"
+    },
+    "21": {
+        "formar_id": 21,
+        "name": "alan-stephens-foster"
+    },
+    "401": {
+        "formar_id": 405,
+        "name": "georgia-o-keeffe"
+    },
+    "22": {
+        "formar_id": 22,
+        "name": "albert-anker"
+    },
+    "360": {
+        "formar_id": 363,
+        "name": "frederick-sandys"
+    },
+    "23": {
+        "formar_id": 23,
+        "name": "albert-bierstadt"
+    },
+    "1106": {
+        "formar_id": 1113,
+        "name": "william-turner"
+    },
+    "531": {
+        "formar_id": 535,
+        "name": "jacek-malczewski"
+    },
+    "25": {
+        "formar_id": 25,
+        "name": "albert-dubois-pillet"
+    },
+    "317": {
+        "formar_id": 320,
+        "name": "ferdinand-hodler"
+    },
+    "26": {
+        "formar_id": 26,
+        "name": "albert-gleizes"
+    },
+    "1081": {
+        "formar_id": 1088,
+        "name": "walter-sickert"
+    },
+    "27": {
+        "formar_id": 27,
+        "name": "albert-joseph-moore"
+    },
+    "158": {
+        "formar_id": 158,
+        "name": "berthe-morisot"
+    },
+    "28": {
+        "formar_id": 28,
+        "name": "albert-maignan"
+    },
+    "468": {
+        "formar_id": 472,
+        "name": "harriet-backer"
+    },
+    "29": {
+        "formar_id": 29,
+        "name": "albert-marquet"
+    },
+    "942": {
+        "formar_id": 948,
+        "name": "richard-friese"
+    },
+    "30": {
+        "formar_id": 30,
+        "name": "albert-pinkham-ryder"
+    },
+    "31": {
+        "formar_id": 31,
+        "name": "albert-tucker"
+    },
+    "636": {
+        "formar_id": 642,
+        "name": "jose-clemente-orozco"
+    },
+    "32": {
+        "formar_id": 32,
+        "name": "alberto-burri"
+    },
+    "521": {
+        "formar_id": 525,
+        "name": "ivan-albright"
+    },
+    "33": {
+        "formar_id": 33,
+        "name": "albin-egger-lienz"
+    },
+    "676": {
+        "formar_id": 682,
+        "name": "kamal-ol-molk"
+    },
+    "34": {
+        "formar_id": 34,
+        "name": "albrecht-altdorfer"
+    },
+    "509": {
+        "formar_id": 513,
+        "name": "hugo-van-der-goes"
+    },
+    "35": {
+        "formar_id": 35,
+        "name": "albrecht-durer"
+    },
+    "36": {
+        "formar_id": 36,
+        "name": "alejandro-cabeza"
+    },
+    "37": {
+        "formar_id": 37,
+        "name": "aleksander-gierymski"
+    },
+    "229": {
+        "formar_id": 230,
+        "name": "dante-gabriel-rossetti"
+    },
+    "38": {
+        "formar_id": 38,
+        "name": "aleksandr-borodin"
+    },
+    "457": {
+        "formar_id": 461,
+        "name": "ha-chong-hyun"
+    },
+    "39": {
+        "formar_id": 39,
+        "name": "aleksandr-deyneka"
+    },
+    "234": {
+        "formar_id": 235,
+        "name": "david-kakabadze"
+    },
+    "40": {
+        "formar_id": 40,
+        "name": "aleksandra-ekster"
+    },
+    "319": {
+        "formar_id": 322,
+        "name": "fernand-leger"
+    },
+    "41": {
+        "formar_id": 41,
+        "name": "aleksey-antropov"
+    },
+    "187": {
+        "formar_id": 187,
+        "name": "charles-andre-van-loo-carle-van-loo"
+    },
+    "42": {
+        "formar_id": 42,
+        "name": "aleksey-savrasov"
+    },
+    "520": {
+        "formar_id": 524,
+        "name": "ivan-aivazovsky"
+    },
+    "43": {
+        "formar_id": 43,
+        "name": "alessandro-allori"
+    },
+    "274": {
+        "formar_id": 277,
+        "name": "el-greco"
+    },
+    "44": {
+        "formar_id": 44,
+        "name": "alexander-bazhbeuk-melikyan"
+    },
+    "1078": {
+        "formar_id": 1085,
+        "name": "vsevolod-maksymovych"
+    },
+    "45": {
+        "formar_id": 45,
+        "name": "alexander-belyaev"
+    },
+    "217": {
+        "formar_id": 218,
+        "name": "consuelo-hernandez"
+    },
+    "46": {
+        "formar_id": 46,
+        "name": "alexander-calder"
+    },
+    "838": {
+        "formar_id": 844,
+        "name": "nikolay-bogdanov-belsky"
+    },
+    "47": {
+        "formar_id": 47,
+        "name": "alexander-clarot"
+    },
+    "87": {
+        "formar_id": 87,
+        "name": "angelica-kauffman"
+    },
+    "48": {
+        "formar_id": 48,
+        "name": "alexander-ivanov"
+    },
+    "890": {
+        "formar_id": 896,
+        "name": "penry-williams"
+    },
+    "49": {
+        "formar_id": 49,
+        "name": "alexander-rodchenko"
+    },
+    "841": {
+        "formar_id": 847,
+        "name": "norman-rockwell"
+    },
+    "50": {
+        "formar_id": 50,
+        "name": "alexander-roitburd"
+    },
+    "325": {
+        "formar_id": 328,
+        "name": "fra-bartolomeo"
+    },
+    "51": {
+        "formar_id": 51,
+        "name": "alexandre-antigna"
+    },
+    "53": {
+        "formar_id": 53,
+        "name": "alexandre-cabanel"
+    },
+    "52": {
+        "formar_id": 52,
+        "name": "alexandre-benois"
+    },
+    "783": {
+        "formar_id": 789,
+        "name": "maurice-de-vlaminck"
+    },
+    "335": {
+        "formar_id": 338,
+        "name": "francisco-goya"
+    },
+    "54": {
+        "formar_id": 54,
+        "name": "alexandre-gabriel-decamps"
+    },
+    "915": {
+        "formar_id": 921,
+        "name": "pietro-longhi"
+    },
+    "55": {
+        "formar_id": 55,
+        "name": "alexei-harlamoff"
+    },
+    "714": {
+        "formar_id": 720,
+        "name": "leon-bonnat"
+    },
+    "56": {
+        "formar_id": 56,
+        "name": "alexej-von-jawlensky"
+    },
+    "854": {
+        "formar_id": 860,
+        "name": "oskar-kokoschka"
+    },
+    "57": {
+        "formar_id": 57,
+        "name": "alexey-bogolyubov"
+    },
+    "58": {
+        "formar_id": 58,
+        "name": "alexey-venetsianov"
+    },
+    "68": {
+        "formar_id": 68,
+        "name": "allan-ramsay"
+    },
+    "59": {
+        "formar_id": 59,
+        "name": "alexis-gritchenko"
+    },
+    "463": {
+        "formar_id": 467,
+        "name": "hans-hofmann"
+    },
+    "60": {
+        "formar_id": 60,
+        "name": "alfred-dehodencq"
+    },
+    "1019": {
+        "formar_id": 1026,
+        "name": "theodore-rousseau"
+    },
+    "61": {
+        "formar_id": 61,
+        "name": "alfred-freddy-krupa"
+    },
+    "62": {
+        "formar_id": 62,
+        "name": "alfred-sisley"
+    },
+    "996": {
+        "formar_id": 1002,
+        "name": "simon-de-vlieger"
+    },
+    "63": {
+        "formar_id": 63,
+        "name": "alfred-stevens"
+    },
+    "383": {
+        "formar_id": 387,
+        "name": "george-frederick-watts"
+    },
+    "64": {
+        "formar_id": 64,
+        "name": "alfred-wallis"
+    },
+    "287": {
+        "formar_id": 290,
+        "name": "endre-rozsda"
+    },
+    "65": {
+        "formar_id": 65,
+        "name": "alice-bailly"
+    },
+    "399": {
+        "formar_id": 403,
+        "name": "georges-seurat"
+    },
+    "66": {
+        "formar_id": 66,
+        "name": "alice-neel"
+    },
+    "879": {
+        "formar_id": 885,
+        "name": "paul-nash"
+    },
+    "67": {
+        "formar_id": 67,
+        "name": "alice-rahon"
+    },
+    "1076": {
+        "formar_id": 1083,
+        "name": "vladimir-tretchikoff"
+    },
+    "69": {
+        "formar_id": 69,
+        "name": "allen-jones"
+    },
+    "956": {
+        "formar_id": 962,
+        "name": "robert-motherwell"
+    },
+    "70": {
+        "formar_id": 70,
+        "name": "alonzo-cano"
+    },
+    "911": {
+        "formar_id": 917,
+        "name": "pieter-bruegel-the-elder"
+    },
+    "71": {
+        "formar_id": 71,
+        "name": "alphonse-mucha"
+    },
+    "89": {
+        "formar_id": 89,
+        "name": "anna-ancher"
+    },
+    "72": {
+        "formar_id": 72,
+        "name": "amadeo-de-souza-cardoso"
+    },
+    "820": {
+        "formar_id": 826,
+        "name": "n-c-wyeth"
+    },
+    "73": {
+        "formar_id": 73,
+        "name": "amedee-ozenfant"
+    },
+    "220": {
+        "formar_id": 221,
+        "name": "cornelis-vreedenburgh"
+    },
+    "74": {
+        "formar_id": 74,
+        "name": "amedeo-modigliani"
+    },
+    "314": {
+        "formar_id": 317,
+        "name": "felix-vallotton"
+    },
+    "75": {
+        "formar_id": 75,
+        "name": "anatoli-papian"
+    },
+    "76": {
+        "formar_id": 76,
+        "name": "anders-zorn"
+    },
+    "903": {
+        "formar_id": 909,
+        "name": "pierre-auguste-renoir"
+    },
+    "77": {
+        "formar_id": 77,
+        "name": "andre-derain"
+    },
+    "113": {
+        "formar_id": 113,
+        "name": "arkhip-kuindzhi"
+    },
+    "78": {
+        "formar_id": 78,
+        "name": "andre-gill"
+    },
+    "79": {
+        "formar_id": 79,
+        "name": "andre-masson"
+    },
+    "430": {
+        "formar_id": 434,
+        "name": "giovanni-segantini"
+    },
+    "80": {
+        "formar_id": 80,
+        "name": "andrea-del-castagno"
+    },
+    "323": {
+        "formar_id": 326,
+        "name": "filippo-lippi"
+    },
+    "81": {
+        "formar_id": 81,
+        "name": "andrea-del-sarto"
+    },
+    "895": {
+        "formar_id": 901,
+        "name": "petrus-christus"
+    },
+    "82": {
+        "formar_id": 82,
+        "name": "andrea-mantegna"
+    },
+    "83": {
+        "formar_id": 83,
+        "name": "andrea-solario"
+    },
+    "916": {
+        "formar_id": 922,
+        "name": "pietro-perugino"
+    },
+    "84": {
+        "formar_id": 84,
+        "name": "andreas-achenbach"
+    },
+    "85": {
+        "formar_id": 85,
+        "name": "andrei-ryabushkin"
+    },
+    "527": {
+        "formar_id": 531,
+        "name": "ivan-shishkin"
+    },
+    "86": {
+        "formar_id": 86,
+        "name": "andrew-wyeth"
+    },
+    "1053": {
+        "formar_id": 1060,
+        "name": "veniamin-kremer"
+    },
+    "367": {
+        "formar_id": 370,
+        "name": "fyodor-rokotov"
+    },
+    "88": {
+        "formar_id": 88,
+        "name": "anima-ehtiat"
+    },
+    "839": {
+        "formar_id": 845,
+        "name": "nina-tokhtaman-valetova"
+    },
+    "667": {
+        "formar_id": 673,
+        "name": "julian-alden-weir"
+    },
+    "90": {
+        "formar_id": 90,
+        "name": "anne-louis-girodet"
+    },
+    "201": {
+        "formar_id": 201,
+        "name": "charles-willson-peale"
+    },
+    "91": {
+        "formar_id": 91,
+        "name": "anne-vallayer-coster"
+    },
+    "428": {
+        "formar_id": 432,
+        "name": "giovanni-domenico-tiepolo"
+    },
+    "92": {
+        "formar_id": 92,
+        "name": "annibale-carracci"
+    },
+    "865": {
+        "formar_id": 871,
+        "name": "paolo-veronese"
+    },
+    "93": {
+        "formar_id": 93,
+        "name": "ant-nio-de-carvalho-da-silva-porto"
+    },
+    "202": {
+        "formar_id": 202,
+        "name": "childe-hassam"
+    },
+    "94": {
+        "formar_id": 94,
+        "name": "anthony-van-dyck"
+    },
+    "533": {
+        "formar_id": 537,
+        "name": "jacob-jordaens"
+    },
+    "95": {
+        "formar_id": 95,
+        "name": "antoine-jean-gros"
+    },
+    "1072": {
+        "formar_id": 1079,
+        "name": "vladimir-borovikovsky"
+    },
+    "96": {
+        "formar_id": 96,
+        "name": "antoine-pesne"
+    },
+    "935": {
+        "formar_id": 941,
+        "name": "rembrandt"
+    },
+    "97": {
+        "formar_id": 97,
+        "name": "antoine-watteau"
+    },
+    "235": {
+        "formar_id": 236,
+        "name": "david-teniers-the-younger"
+    },
+    "98": {
+        "formar_id": 98,
+        "name": "anton-mauve"
+    },
+    "725": {
+        "formar_id": 731,
+        "name": "louise-abbema"
+    },
+    "99": {
+        "formar_id": 99,
+        "name": "anton-melbye"
+    },
+    "927": {
+        "formar_id": 933,
+        "name": "raimundo-madrazo"
+    },
+    "100": {
+        "formar_id": 100,
+        "name": "anton-mitov"
+    },
+    "567": {
+        "formar_id": 572,
+        "name": "jarnefelt-eero"
+    },
+    "101": {
+        "formar_id": 101,
+        "name": "anton-raphael-mengs"
+    },
+    "630": {
+        "formar_id": 636,
+        "name": "john-singleton-copley"
+    },
+    "102": {
+        "formar_id": 102,
+        "name": "anton-romako"
+    },
+    "133": {
+        "formar_id": 133,
+        "name": "august-von-pettenkofen"
+    },
+    "103": {
+        "formar_id": 103,
+        "name": "antonello-da-messina"
+    },
+    "562": {
+        "formar_id": 567,
+        "name": "jan-van-eyck"
+    },
+    "104": {
+        "formar_id": 104,
+        "name": "antonio-de-la-gandara"
+    },
+    "638": {
+        "formar_id": 644,
+        "name": "jose-gutierrez-solana"
+    },
+    "105": {
+        "formar_id": 105,
+        "name": "antonio-del-pollaiolo"
+    },
+    "425": {
+        "formar_id": 429,
+        "name": "giovanni-bellini"
+    },
+    "106": {
+        "formar_id": 106,
+        "name": "antonio-lopez"
+    },
+    "1083": {
+        "formar_id": 1090,
+        "name": "wayne-thiebaud"
+    },
+    "107": {
+        "formar_id": 107,
+        "name": "antonio-mancini"
+    },
+    "426": {
+        "formar_id": 430,
+        "name": "giovanni-boldini"
+    },
+    "108": {
+        "formar_id": 108,
+        "name": "antonio-paoletti"
+    },
+    "281": {
+        "formar_id": 284,
+        "name": "emil-hunten"
+    },
+    "109": {
+        "formar_id": 109,
+        "name": "antonio-sicurezza"
+    },
+    "481": {
+        "formar_id": 485,
+        "name": "henri-martin"
+    },
+    "110": {
+        "formar_id": 110,
+        "name": "ara-bekaryan"
+    },
+    "924": {
+        "formar_id": 930,
+        "name": "rafael-zabaleta"
+    },
+    "111": {
+        "formar_id": 111,
+        "name": "archibald-motley"
+    },
+    "555": {
+        "formar_id": 560,
+        "name": "jan-matejko"
+    },
+    "112": {
+        "formar_id": 112,
+        "name": "aristarkh-lentulov"
+    },
+    "514": {
+        "formar_id": 518,
+        "name": "ippolito-caffi"
+    },
+    "114": {
+        "formar_id": 114,
+        "name": "armand-guillaumin"
+    },
+    "882": {
+        "formar_id": 888,
+        "name": "paul-signac"
+    },
+    "115": {
+        "formar_id": 115,
+        "name": "arnold-bocklin"
+    },
+    "206": {
+        "formar_id": 206,
+        "name": "christina-robertson"
+    },
+    "116": {
+        "formar_id": 116,
+        "name": "arshile-gorky"
+    },
+    "603": {
+        "formar_id": 609,
+        "name": "johan-hendrik-weissenbruch"
+    },
+    "117": {
+        "formar_id": 117,
+        "name": "artemisia-gentileschi"
+    },
+    "169": {
+        "formar_id": 169,
+        "name": "caravaggio"
+    },
+    "118": {
+        "formar_id": 118,
+        "name": "arthur-dove"
+    },
+    "119": {
+        "formar_id": 119,
+        "name": "arthur-hughes"
+    },
+    "316": {
+        "formar_id": 319,
+        "name": "ferdinand-georg-waldm-ller"
+    },
+    "120": {
+        "formar_id": 120,
+        "name": "arthur-lismer"
+    },
+    "849": {
+        "formar_id": 855,
+        "name": "oleksandr-bogomazov"
+    },
+    "121": {
+        "formar_id": 121,
+        "name": "arthur-lowe"
+    },
+    "695": {
+        "formar_id": 701,
+        "name": "konstantin-somov"
+    },
+    "122": {
+        "formar_id": 122,
+        "name": "arthur-pan"
+    },
+    "123": {
+        "formar_id": 123,
+        "name": "arthur-segal"
+    },
+    "124": {
+        "formar_id": 124,
+        "name": "arturo-michelena"
+    },
+    "808": {
+        "formar_id": 814,
+        "name": "mikhail-lebedev"
+    },
+    "125": {
+        "formar_id": 125,
+        "name": "arturo-rivera"
+    },
+    "289": {
+        "formar_id": 292,
+        "name": "enrique-martinez-celaya"
+    },
+    "126": {
+        "formar_id": 126,
+        "name": "arturo-souto"
+    },
+    "269": {
+        "formar_id": 272,
+        "name": "edwin-henry-landseer"
+    },
+    "127": {
+        "formar_id": 127,
+        "name": "ary-scheffer"
+    },
+    "885": {
+        "formar_id": 891,
+        "name": "pavel-fedotov"
+    },
+    "128": {
+        "formar_id": 128,
+        "name": "asger-jorn"
+    },
+    "965": {
+        "formar_id": 971,
+        "name": "rosemarie-beck"
+    },
+    "129": {
+        "formar_id": 129,
+        "name": "asher-brown-durand"
+    },
+    "219": {
+        "formar_id": 220,
+        "name": "cornelis-springer"
+    },
+    "130": {
+        "formar_id": 130,
+        "name": "audrey-flack"
+    },
+    "302": {
+        "formar_id": 305,
+        "name": "etel-adnan"
+    },
+    "131": {
+        "formar_id": 131,
+        "name": "august-friedrich-schenck"
+    },
+    "132": {
+        "formar_id": 132,
+        "name": "august-macke"
+    },
+    "134": {
+        "formar_id": 134,
+        "name": "auguste-toulmouche"
+    },
+    "1051": {
+        "formar_id": 1058,
+        "name": "vasily-tropinin"
+    },
+    "135": {
+        "formar_id": 135,
+        "name": "augustus-edwin-mulready"
+    },
+    "686": {
+        "formar_id": 692,
+        "name": "knud-baade"
+    },
+    "136": {
+        "formar_id": 136,
+        "name": "augustus-john"
+    },
+    "1045": {
+        "formar_id": 1052,
+        "name": "vardges-sureniants"
+    },
+    "137": {
+        "formar_id": 137,
+        "name": "aurelio-tiratelli"
+    },
+    "216": {
+        "formar_id": 217,
+        "name": "constant-troyon"
+    },
+    "138": {
+        "formar_id": 138,
+        "name": "aydin-aghdashloo"
+    },
+    "321": {
+        "formar_id": 324,
+        "name": "filipp-malyavin"
+    },
+    "139": {
+        "formar_id": 139,
+        "name": "babken-kolozyan"
+    },
+    "140": {
+        "formar_id": 140,
+        "name": "balthus"
+    },
+    "258": {
+        "formar_id": 261,
+        "name": "edouard-vuillard"
+    },
+    "141": {
+        "formar_id": 141,
+        "name": "barbara-longhi"
+    },
+    "142": {
+        "formar_id": 142,
+        "name": "barnett-newman"
+    },
+    "681": {
+        "formar_id": 687,
+        "name": "kazimir-malevich"
+    },
+    "143": {
+        "formar_id": 143,
+        "name": "bartholomaus-spranger"
+    },
+    "433": {
+        "formar_id": 437,
+        "name": "giuseppe-arcimboldo"
+    },
+    "144": {
+        "formar_id": 144,
+        "name": "bartolome-bermejo"
+    },
+    "145": {
+        "formar_id": 145,
+        "name": "bartolome-esteban-murillo"
+    },
+    "146": {
+        "formar_id": 146,
+        "name": "bartolomeo-veneto"
+    },
+    "147": {
+        "formar_id": 147,
+        "name": "ben-nicholson"
+    },
+    "747": {
+        "formar_id": 753,
+        "name": "manoucher-yektai"
+    },
+    "148": {
+        "formar_id": 148,
+        "name": "benjamin-west"
+    },
+    "443": {
+        "formar_id": 447,
+        "name": "guercino"
+    },
+    "149": {
+        "formar_id": 149,
+        "name": "benny-andrews"
+    },
+    "352": {
+        "formar_id": 355,
+        "name": "franz-richard-unterberger"
+    },
+    "150": {
+        "formar_id": 150,
+        "name": "benozzo-gozzoli"
+    },
+    "962": {
+        "formar_id": 968,
+        "name": "rogier-van-der-weyden"
+    },
+    "151": {
+        "formar_id": 151,
+        "name": "bernard-van-orley"
+    },
+    "675": {
+        "formar_id": 681,
+        "name": "justus-van-gent"
+    },
+    "152": {
+        "formar_id": 152,
+        "name": "bernardino-luini"
+    },
+    "156": {
+        "formar_id": 156,
+        "name": "bernhard-strigel"
+    },
+    "153": {
+        "formar_id": 153,
+        "name": "bernardo-bellotto"
+    },
+    "167": {
+        "formar_id": 167,
+        "name": "canaletto"
+    },
+    "1033": {
+        "formar_id": 1040,
+        "name": "tintoretto"
+    },
+    "155": {
+        "formar_id": 155,
+        "name": "bernd-luz"
+    },
+    "157": {
+        "formar_id": 157,
+        "name": "bertalan-szekely"
+    },
+    "166": {
+        "formar_id": 166,
+        "name": "camille-pissarro"
+    },
+    "159": {
+        "formar_id": 159,
+        "name": "boris-kustodiev"
+    },
+    "482": {
+        "formar_id": 486,
+        "name": "henri-matisse"
+    },
+    "160": {
+        "formar_id": 160,
+        "name": "botong-francisco"
+    },
+    "700": {
+        "formar_id": 706,
+        "name": "kuzma-petrov-vodkin"
+    },
+    "161": {
+        "formar_id": 161,
+        "name": "bridget-riley"
+    },
+    "162": {
+        "formar_id": 162,
+        "name": "briton-riviere"
+    },
+    "655": {
+        "formar_id": 661,
+        "name": "jozef-chelmonski"
+    },
+    "163": {
+        "formar_id": 163,
+        "name": "c-r-w-nevinson"
+    },
+    "859": {
+        "formar_id": 865,
+        "name": "otto-dix"
+    },
+    "164": {
+        "formar_id": 164,
+        "name": "camille-bombois"
+    },
+    "165": {
+        "formar_id": 165,
+        "name": "camille-corot"
+    },
+    "612": {
+        "formar_id": 618,
+        "name": "john-constable"
+    },
+    "168": {
+        "formar_id": 168,
+        "name": "candido-portinari"
+    },
+    "418": {
+        "formar_id": 422,
+        "name": "giorgio-vasari"
+    },
+    "170": {
+        "formar_id": 170,
+        "name": "carel-fabritius"
+    },
+    "301": {
+        "formar_id": 304,
+        "name": "esaias-van-de-velde"
+    },
+    "171": {
+        "formar_id": 171,
+        "name": "carl-bloch"
+    },
+    "172": {
+        "formar_id": 172,
+        "name": "carl-haag"
+    },
+    "456": {
+        "formar_id": 460,
+        "name": "gwen-john"
+    },
+    "173": {
+        "formar_id": 173,
+        "name": "carl-larsson"
+    },
+    "174": {
+        "formar_id": 174,
+        "name": "carl-ludwig-johann-christineck"
+    },
+    "175": {
+        "formar_id": 175,
+        "name": "carl-spitzweg"
+    },
+    "176": {
+        "formar_id": 176,
+        "name": "carle-vernet"
+    },
+    "1067": {
+        "formar_id": 1074,
+        "name": "vincenzo-camuccini"
+    },
+    "177": {
+        "formar_id": 177,
+        "name": "carlo-carra"
+    },
+    "455": {
+        "formar_id": 459,
+        "name": "guy-rose"
+    },
+    "178": {
+        "formar_id": 178,
+        "name": "carlo-crivelli"
+    },
+    "179": {
+        "formar_id": 179,
+        "name": "carlos-cruz-diez"
+    },
+    "180": {
+        "formar_id": 180,
+        "name": "carlos-saenz-de-tejada"
+    },
+    "181": {
+        "formar_id": 181,
+        "name": "carlos-schwabe"
+    },
+    "182": {
+        "formar_id": 182,
+        "name": "carmen-delaco"
+    },
+    "452": {
+        "formar_id": 456,
+        "name": "gustave-loiseau"
+    },
+    "183": {
+        "formar_id": 183,
+        "name": "carolus-duran"
+    },
+    "184": {
+        "formar_id": 184,
+        "name": "caspar-david-friedrich"
+    },
+    "185": {
+        "formar_id": 185,
+        "name": "cesare-biseo"
+    },
+    "908": {
+        "formar_id": 914,
+        "name": "pierre-puvis-de-chavannes"
+    },
+    "186": {
+        "formar_id": 186,
+        "name": "chaim-soutine"
+    },
+    "881": {
+        "formar_id": 887,
+        "name": "paul-serusier"
+    },
+    "574": {
+        "formar_id": 579,
+        "name": "jean-baptiste-oudry"
+    },
+    "188": {
+        "formar_id": 188,
+        "name": "charles-conder"
+    },
+    "189": {
+        "formar_id": 189,
+        "name": "charles-courtney-curran"
+    },
+    "740": {
+        "formar_id": 746,
+        "name": "lyonel-feininger"
+    },
+    "190": {
+        "formar_id": 190,
+        "name": "charles-de-steuben"
+    },
+    "191": {
+        "formar_id": 191,
+        "name": "charles-demuth"
+    },
+    "938": {
+        "formar_id": 944,
+        "name": "rene-magritte"
+    },
+    "192": {
+        "formar_id": 192,
+        "name": "charles-francois-daubigny"
+    },
+    "1014": {
+        "formar_id": 1021,
+        "name": "theodor-leopold-weller"
+    },
+    "193": {
+        "formar_id": 193,
+        "name": "charles-gleyre"
+    },
+    "432": {
+        "formar_id": 436,
+        "name": "giuseppe-abbati"
+    },
+    "194": {
+        "formar_id": 194,
+        "name": "charles-laval"
+    },
+    "195": {
+        "formar_id": 195,
+        "name": "charles-le-brun"
+    },
+    "413": {
+        "formar_id": 417,
+        "name": "gian-lorenzo-bernini"
+    },
+    "196": {
+        "formar_id": 196,
+        "name": "charles-sheeler"
+    },
+    "197": {
+        "formar_id": 197,
+        "name": "charles-sprague-pearce"
+    },
+    "251": {
+        "formar_id": 254,
+        "name": "edelfelt-albert"
+    },
+    "198": {
+        "formar_id": 198,
+        "name": "charles-victor-thirion"
+    },
+    "199": {
+        "formar_id": 199,
+        "name": "charles-wilbert-white"
+    },
+    "200": {
+        "formar_id": 200,
+        "name": "charles-william-mitchell"
+    },
+    "241": {
+        "formar_id": 242,
+        "name": "dmitry-levitzky"
+    },
+    "203": {
+        "formar_id": 203,
+        "name": "chris-ofili"
+    },
+    "204": {
+        "formar_id": 204,
+        "name": "christen-kobke"
+    },
+    "719": {
+        "formar_id": 725,
+        "name": "leopold-robert"
+    },
+    "205": {
+        "formar_id": 205,
+        "name": "christian-schad"
+    },
+    "1038": {
+        "formar_id": 1045,
+        "name": "tom-thomson"
+    },
+    "246": {
+        "formar_id": 247,
+        "name": "domenico-induno"
+    },
+    "207": {
+        "formar_id": 207,
+        "name": "christoffer-wilhelm-eckersberg"
+    },
+    "907": {
+        "formar_id": 913,
+        "name": "pierre-paul-prud-hon"
+    },
+    "208": {
+        "formar_id": 208,
+        "name": "christopher-wood"
+    },
+    "1029": {
+        "formar_id": 1036,
+        "name": "thomas-moran"
+    },
+    "209": {
+        "formar_id": 209,
+        "name": "cima-da-conegliano"
+    },
+    "496": {
+        "formar_id": 500,
+        "name": "hieronymus-bosch"
+    },
+    "210": {
+        "formar_id": 211,
+        "name": "clara-peeters"
+    },
+    "249": {
+        "formar_id": 251,
+        "name": "dosso-dossi"
+    },
+    "211": {
+        "formar_id": 212,
+        "name": "claude-joseph-vernet"
+    },
+    "213": {
+        "formar_id": 214,
+        "name": "claude-monet"
+    },
+    "214": {
+        "formar_id": 215,
+        "name": "claudio-coello"
+    },
+    "215": {
+        "formar_id": 216,
+        "name": "columbano-bordalo-pinheiro"
+    },
+    "684": {
+        "formar_id": 690,
+        "name": "kitty-lange-kielland"
+    },
+    "599": {
+        "formar_id": 605,
+        "name": "joan-mitchell"
+    },
+    "218": {
+        "formar_id": 219,
+        "name": "cornelis-de-vos"
+    },
+    "347": {
+        "formar_id": 350,
+        "name": "frans-snyders"
+    },
+    "799": {
+        "formar_id": 805,
+        "name": "maxim-vorobiev"
+    },
+    "1105": {
+        "formar_id": 1112,
+        "name": "william-shayer"
+    },
+    "221": {
+        "formar_id": 222,
+        "name": "corrado-zani"
+    },
+    "222": {
+        "formar_id": 223,
+        "name": "correggio"
+    },
+    "223": {
+        "formar_id": 224,
+        "name": "cristiano-tassinari"
+    },
+    "925": {
+        "formar_id": 931,
+        "name": "rafal-bujnowski"
+    },
+    "225": {
+        "formar_id": 226,
+        "name": "dan-witz"
+    },
+    "226": {
+        "formar_id": 227,
+        "name": "daniel-ridgway-knight"
+    },
+    "1068": {
+        "formar_id": 1075,
+        "name": "vincenzo-irolli"
+    },
+    "227": {
+        "formar_id": 228,
+        "name": "daniele-da-volterra"
+    },
+    "910": {
+        "formar_id": 916,
+        "name": "pieter-aertsen"
+    },
+    "228": {
+        "formar_id": 229,
+        "name": "danielson-gambogi-elin"
+    },
+    "845": {
+        "formar_id": 851,
+        "name": "oda-krohg"
+    },
+    "614": {
+        "formar_id": 620,
+        "name": "john-everett-millais"
+    },
+    "230": {
+        "formar_id": 231,
+        "name": "darren-waterston"
+    },
+    "231": {
+        "formar_id": 232,
+        "name": "david-alfaro-siqueiros"
+    },
+    "1001": {
+        "formar_id": 1007,
+        "name": "stanley-spencer"
+    },
+    "232": {
+        "formar_id": 233,
+        "name": "david-bomberg"
+    },
+    "233": {
+        "formar_id": 234,
+        "name": "david-burliuk"
+    },
+    "236": {
+        "formar_id": 237,
+        "name": "david-wilkie"
+    },
+    "237": {
+        "formar_id": 238,
+        "name": "diego-rivera"
+    },
+    "876": {
+        "formar_id": 882,
+        "name": "paul-gauguin"
+    },
+    "238": {
+        "formar_id": 239,
+        "name": "diego-velazquez"
+    },
+    "1034": {
+        "formar_id": 1041,
+        "name": "titian"
+    },
+    "239": {
+        "formar_id": 240,
+        "name": "dirck-van-baburen"
+    },
+    "919": {
+        "formar_id": 925,
+        "name": "pompeo-batoni"
+    },
+    "243": {
+        "formar_id": 244,
+        "name": "domenico-beccafumi"
+    },
+    "1070": {
+        "formar_id": 1077,
+        "name": "vittore-carpaccio"
+    },
+    "244": {
+        "formar_id": 245,
+        "name": "domenico-fiasella"
+    },
+    "245": {
+        "formar_id": 246,
+        "name": "domenico-ghirlandaio"
+    },
+    "892": {
+        "formar_id": 898,
+        "name": "peter-fendi"
+    },
+    "247": {
+        "formar_id": 249,
+        "name": "dorothea-rockburne"
+    },
+    "804": {
+        "formar_id": 810,
+        "name": "michael-hafftka"
+    },
+    "248": {
+        "formar_id": 250,
+        "name": "dorothea-tanning"
+    },
+    "940": {
+        "formar_id": 946,
+        "name": "richard-diebenkorn"
+    },
+    "250": {
+        "formar_id": 253,
+        "name": "eastman-johnson"
+    },
+    "357": {
+        "formar_id": 360,
+        "name": "frederic-leighton"
+    },
+    "252": {
+        "formar_id": 255,
+        "name": "edgar-chahine"
+    },
+    "253": {
+        "formar_id": 256,
+        "name": "edgar-degas"
+    },
+    "1025": {
+        "formar_id": 1032,
+        "name": "thomas-gainsborough"
+    },
+    "254": {
+        "formar_id": 257,
+        "name": "edmund-charles-tarbell"
+    },
+    "255": {
+        "formar_id": 258,
+        "name": "edouard-cortes"
+    },
+    "256": {
+        "formar_id": 259,
+        "name": "edouard-debat-ponsan"
+    },
+    "257": {
+        "formar_id": 260,
+        "name": "edouard-manet"
+    },
+    "853": {
+        "formar_id": 859,
+        "name": "orest-kiprensky"
+    },
+    "259": {
+        "formar_id": 262,
+        "name": "eduard-isabekyan"
+    },
+    "260": {
+        "formar_id": 263,
+        "name": "eduardo-berliner"
+    },
+    "261": {
+        "formar_id": 264,
+        "name": "edvard-munch"
+    },
+    "1012": {
+        "formar_id": 1019,
+        "name": "theo-van-rysselberghe"
+    },
+    "262": {
+        "formar_id": 265,
+        "name": "edward-burne-jones"
+    },
+    "694": {
+        "formar_id": 700,
+        "name": "konstantin-makovsky"
+    },
+    "263": {
+        "formar_id": 266,
+        "name": "edward-hicks"
+    },
+    "264": {
+        "formar_id": 267,
+        "name": "edward-hopper"
+    },
+    "265": {
+        "formar_id": 268,
+        "name": "edward-mitchell-bannister"
+    },
+    "266": {
+        "formar_id": 269,
+        "name": "edward-poynter"
+    },
+    "678": {
+        "formar_id": 684,
+        "name": "karl-bryullov"
+    },
+    "267": {
+        "formar_id": 270,
+        "name": "edward-ruscha"
+    },
+    "268": {
+        "formar_id": 271,
+        "name": "edwin-austin-abbey"
+    },
+    "270": {
+        "formar_id": 273,
+        "name": "edwin-lord-weeks"
+    },
+    "271": {
+        "formar_id": 274,
+        "name": "efim-volkov"
+    },
+    "272": {
+        "formar_id": 275,
+        "name": "egon-schiele"
+    },
+    "273": {
+        "formar_id": 276,
+        "name": "eileen-agar"
+    },
+    "275": {
+        "formar_id": 278,
+        "name": "el-lissitzky"
+    },
+    "276": {
+        "formar_id": 279,
+        "name": "eliseu-visconti"
+    },
+    "277": {
+        "formar_id": 280,
+        "name": "elizabeth-thompson"
+    },
+    "278": {
+        "formar_id": 281,
+        "name": "ellsworth-kelly"
+    },
+    "909": {
+        "formar_id": 915,
+        "name": "piet-mondrian"
+    },
+    "279": {
+        "formar_id": 282,
+        "name": "elmer-bischoff"
+    },
+    "766": {
+        "formar_id": 772,
+        "name": "mark-rothko"
+    },
+    "280": {
+        "formar_id": 283,
+        "name": "emanuel-gottlieb-leutze"
+    },
+    "282": {
+        "formar_id": 285,
+        "name": "emil-nolde"
+    },
+    "724": {
+        "formar_id": 730,
+        "name": "louis-valtat"
+    },
+    "283": {
+        "formar_id": 286,
+        "name": "emile-bayard"
+    },
+    "284": {
+        "formar_id": 287,
+        "name": "emile-bernard"
+    },
+    "285": {
+        "formar_id": 288,
+        "name": "emile-claus"
+    },
+    "286": {
+        "formar_id": 289,
+        "name": "emiliano-di-cavalcanti"
+    },
+    "288": {
+        "formar_id": 291,
+        "name": "enrico-nardi"
+    },
+    "551": {
+        "formar_id": 556,
+        "name": "jamie-wyeth"
+    },
+    "290": {
+        "formar_id": 293,
+        "name": "eric-fischl"
+    },
+    "291": {
+        "formar_id": 294,
+        "name": "erich-buchholz"
+    },
+    "292": {
+        "formar_id": 295,
+        "name": "erich-heckel"
+    },
+    "293": {
+        "formar_id": 296,
+        "name": "erik-bulatov"
+    },
+    "294": {
+        "formar_id": 297,
+        "name": "erik-masskholder"
+    },
+    "295": {
+        "formar_id": 298,
+        "name": "ernest-hebert"
+    },
+    "581": {
+        "formar_id": 587,
+        "name": "jean-francois-portaels"
+    },
+    "296": {
+        "formar_id": 299,
+        "name": "ernest-lawson"
+    },
+    "697": {
+        "formar_id": 703,
+        "name": "konstantinos-parthenis"
+    },
+    "297": {
+        "formar_id": 300,
+        "name": "ernest-meissonier"
+    },
+    "298": {
+        "formar_id": 301,
+        "name": "ernst-fuchs"
+    },
+    "299": {
+        "formar_id": 302,
+        "name": "ernst-ludwig-kirchner"
+    },
+    "300": {
+        "formar_id": 303,
+        "name": "ernst-wilhelm-nay"
+    },
+    "303": {
+        "formar_id": 306,
+        "name": "ettore-tito"
+    },
+    "304": {
+        "formar_id": 307,
+        "name": "eugene-boudin"
+    },
+    "305": {
+        "formar_id": 308,
+        "name": "eugene-de-blaas"
+    },
+    "306": {
+        "formar_id": 309,
+        "name": "eugene-delacroix"
+    },
+    "307": {
+        "formar_id": 310,
+        "name": "eugene-jansson"
+    },
+    "1048": {
+        "formar_id": 1055,
+        "name": "vasily-perov"
+    },
+    "308": {
+        "formar_id": 311,
+        "name": "eustache-le-sueur"
+    },
+    "309": {
+        "formar_id": 312,
+        "name": "eva-gonzales"
+    },
+    "310": {
+        "formar_id": 313,
+        "name": "federico-zandomeneghi"
+    },
+    "311": {
+        "formar_id": 314,
+        "name": "fedir-krychevsky"
+    },
+    "312": {
+        "formar_id": 315,
+        "name": "felice-casorati"
+    },
+    "313": {
+        "formar_id": 316,
+        "name": "felicien-rops"
+    },
+    "887": {
+        "formar_id": 893,
+        "name": "peder-severin-kroyer"
+    },
+    "315": {
+        "formar_id": 318,
+        "name": "ferdinand-bol"
+    },
+    "710": {
+        "formar_id": 716,
+        "name": "le-nain-brothers"
+    },
+    "318": {
+        "formar_id": 321,
+        "name": "fernand-khnopff"
+    },
+    "320": {
+        "formar_id": 323,
+        "name": "fernando-botero"
+    },
+    "656": {
+        "formar_id": 662,
+        "name": "jozef-pankiewicz"
+    },
+    "322": {
+        "formar_id": 325,
+        "name": "filippo-indoni"
+    },
+    "324": {
+        "formar_id": 327,
+        "name": "ford-madox-brown"
+    },
+    "326": {
+        "formar_id": 329,
+        "name": "francesco-beda"
+    },
+    "704": {
+        "formar_id": 710,
+        "name": "laszlo-mednyanszky"
+    },
+    "327": {
+        "formar_id": 330,
+        "name": "francesco-de-rossi-francesco-salviati"
+    },
+    "744": {
+        "formar_id": 750,
+        "name": "maerten-van-heemskerck"
+    },
+    "328": {
+        "formar_id": 331,
+        "name": "francesco-didioni"
+    },
+    "329": {
+        "formar_id": 332,
+        "name": "francesco-guardi"
+    },
+    "330": {
+        "formar_id": 333,
+        "name": "francesco-hayez"
+    },
+    "1100": {
+        "formar_id": 1107,
+        "name": "william-hogarth"
+    },
+    "331": {
+        "formar_id": 334,
+        "name": "francesco-solimena"
+    },
+    "332": {
+        "formar_id": 335,
+        "name": "francis-bacon"
+    },
+    "333": {
+        "formar_id": 336,
+        "name": "francis-picabia"
+    },
+    "861": {
+        "formar_id": 867,
+        "name": "pablo-picasso"
+    },
+    "334": {
+        "formar_id": 337,
+        "name": "francisco-de-zurbaran"
+    },
+    "674": {
+        "formar_id": 680,
+        "name": "jusepe-de-ribera"
+    },
+    "728": {
+        "formar_id": 734,
+        "name": "louise-moillon"
+    },
+    "336": {
+        "formar_id": 339,
+        "name": "francois-boucher"
+    },
+    "337": {
+        "formar_id": 340,
+        "name": "francois-gerard"
+    },
+    "338": {
+        "formar_id": 341,
+        "name": "frank-auerbach"
+    },
+    "339": {
+        "formar_id": 342,
+        "name": "frank-cadogan-cowper"
+    },
+    "340": {
+        "formar_id": 343,
+        "name": "frank-dicksee"
+    },
+    "341": {
+        "formar_id": 344,
+        "name": "frank-holl"
+    },
+    "654": {
+        "formar_id": 660,
+        "name": "joshua-reynolds"
+    },
+    "342": {
+        "formar_id": 345,
+        "name": "frank-johnston"
+    },
+    "343": {
+        "formar_id": 346,
+        "name": "frank-mason"
+    },
+    "344": {
+        "formar_id": 347,
+        "name": "frank-w-benson"
+    },
+    "351": {
+        "formar_id": 354,
+        "name": "franz-marc"
+    },
+    "345": {
+        "formar_id": 348,
+        "name": "frans-francken-the-younger"
+    },
+    "556": {
+        "formar_id": 561,
+        "name": "jan-miense-molenaer"
+    },
+    "346": {
+        "formar_id": 349,
+        "name": "frans-hals"
+    },
+    "348": {
+        "formar_id": 351,
+        "name": "frans-van-mieris-the-elder"
+    },
+    "349": {
+        "formar_id": 352,
+        "name": "frantisek-kupka"
+    },
+    "1102": {
+        "formar_id": 1109,
+        "name": "william-james-glackens"
+    },
+    "350": {
+        "formar_id": 353,
+        "name": "franz-kline"
+    },
+    "790": {
+        "formar_id": 796,
+        "name": "max-beckmann"
+    },
+    "1064": {
+        "formar_id": 1071,
+        "name": "vincent-van-gogh"
+    },
+    "353": {
+        "formar_id": 356,
+        "name": "franz-stuck"
+    },
+    "649": {
+        "formar_id": 655,
+        "name": "joseph-duplessis"
+    },
+    "355": {
+        "formar_id": 358,
+        "name": "frederic-bazille"
+    },
+    "356": {
+        "formar_id": 359,
+        "name": "frederic-edwin-church"
+    },
+    "358": {
+        "formar_id": 361,
+        "name": "frederick-carl-frieseke"
+    },
+    "359": {
+        "formar_id": 362,
+        "name": "frederick-mccubbin"
+    },
+    "361": {
+        "formar_id": 364,
+        "name": "frida-kahlo"
+    },
+    "362": {
+        "formar_id": 365,
+        "name": "frits-thaulow"
+    },
+    "363": {
+        "formar_id": 366,
+        "name": "fritz-glarner"
+    },
+    "364": {
+        "formar_id": 367,
+        "name": "fujishima-takeji"
+    },
+    "365": {
+        "formar_id": 368,
+        "name": "fyodor-alekseyev"
+    },
+    "366": {
+        "formar_id": 369,
+        "name": "fyodor-bronnikov"
+    },
+    "368": {
+        "formar_id": 371,
+        "name": "fyodor-vasilyev"
+    },
+    "369": {
+        "formar_id": 372,
+        "name": "gabriel-metsu"
+    },
+    "406": {
+        "formar_id": 410,
+        "name": "gerard-terborch"
+    },
+    "370": {
+        "formar_id": 373,
+        "name": "gabriel-von-max"
+    },
+    "371": {
+        "formar_id": 374,
+        "name": "gabriele-munter"
+    },
+    "372": {
+        "formar_id": 375,
+        "name": "galileo-chini"
+    },
+    "373": {
+        "formar_id": 376,
+        "name": "gary-wragg"
+    },
+    "374": {
+        "formar_id": 377,
+        "name": "gavin-hamilton"
+    },
+    "375": {
+        "formar_id": 378,
+        "name": "gazmend-freitag"
+    },
+    "376": {
+        "formar_id": 379,
+        "name": "gene-davis"
+    },
+    "377": {
+        "formar_id": 380,
+        "name": "gentile-bellini"
+    },
+    "378": {
+        "formar_id": 382,
+        "name": "georg-baselitz"
+    },
+    "408": {
+        "formar_id": 412,
+        "name": "gerhard-richter"
+    },
+    "379": {
+        "formar_id": 383,
+        "name": "georg-pauli"
+    },
+    "380": {
+        "formar_id": 384,
+        "name": "george-bellows"
+    },
+    "381": {
+        "formar_id": 385,
+        "name": "george-bouzianis"
+    },
+    "382": {
+        "formar_id": 386,
+        "name": "george-caleb-bingham"
+    },
+    "384": {
+        "formar_id": 388,
+        "name": "george-grosz"
+    },
+    "385": {
+        "formar_id": 389,
+        "name": "george-henry"
+    },
+    "386": {
+        "formar_id": 390,
+        "name": "george-inness"
+    },
+    "429": {
+        "formar_id": 433,
+        "name": "giovanni-fattori"
+    },
+    "387": {
+        "formar_id": 391,
+        "name": "george-luks"
+    },
+    "388": {
+        "formar_id": 392,
+        "name": "george-pemba"
+    },
+    "389": {
+        "formar_id": 393,
+        "name": "george-romney"
+    },
+    "390": {
+        "formar_id": 394,
+        "name": "george-saru"
+    },
+    "391": {
+        "formar_id": 395,
+        "name": "george-stefanescu"
+    },
+    "598": {
+        "formar_id": 604,
+        "name": "joan-miro"
+    },
+    "392": {
+        "formar_id": 396,
+        "name": "george-stubbs"
+    },
+    "393": {
+        "formar_id": 397,
+        "name": "georges-braque"
+    },
+    "394": {
+        "formar_id": 398,
+        "name": "georges-de-la-tour"
+    },
+    "395": {
+        "formar_id": 399,
+        "name": "georges-lacombe"
+    },
+    "396": {
+        "formar_id": 400,
+        "name": "georges-lemmen"
+    },
+    "625": {
+        "formar_id": 631,
+        "name": "john-peter-russell"
+    },
+    "397": {
+        "formar_id": 401,
+        "name": "georges-papazoff"
+    },
+    "398": {
+        "formar_id": 402,
+        "name": "georges-rouault"
+    },
+    "619": {
+        "formar_id": 625,
+        "name": "john-henry-twachtman"
+    },
+    "400": {
+        "formar_id": 404,
+        "name": "georges-vantongerloo"
+    },
+    "943": {
+        "formar_id": 949,
+        "name": "richard-gerstl"
+    },
+    "402": {
+        "formar_id": 406,
+        "name": "georgina-de-albuquerque"
+    },
+    "403": {
+        "formar_id": 407,
+        "name": "georgy-yakulov"
+    },
+    "404": {
+        "formar_id": 408,
+        "name": "gerard-david"
+    },
+    "405": {
+        "formar_id": 409,
+        "name": "gerard-sekoto"
+    },
+    "781": {
+        "formar_id": 787,
+        "name": "matthias-stom"
+    },
+    "407": {
+        "formar_id": 411,
+        "name": "gerard-van-honthorst"
+    },
+    "647": {
+        "formar_id": 653,
+        "name": "joseph-decamp"
+    },
+    "409": {
+        "formar_id": 413,
+        "name": "gerolamo-induno"
+    },
+    "410": {
+        "formar_id": 414,
+        "name": "gerrit-dou"
+    },
+    "444": {
+        "formar_id": 448,
+        "name": "guido-reni"
+    },
+    "411": {
+        "formar_id": 415,
+        "name": "gevorg-bashindzhagian"
+    },
+    "412": {
+        "formar_id": 416,
+        "name": "giacomo-balla"
+    },
+    "414": {
+        "formar_id": 418,
+        "name": "gilbert-stuart"
+    },
+    "415": {
+        "formar_id": 419,
+        "name": "gino-severini"
+    },
+    "416": {
+        "formar_id": 420,
+        "name": "giorgio-de-chirico"
+    },
+    "417": {
+        "formar_id": 421,
+        "name": "giorgio-morandi"
+    },
+    "419": {
+        "formar_id": 423,
+        "name": "giorgione"
+    },
+    "717": {
+        "formar_id": 723,
+        "name": "leonardo-da-vinci"
+    },
+    "420": {
+        "formar_id": 424,
+        "name": "giovanni-antonio-boltraffio"
+    },
+    "421": {
+        "formar_id": 425,
+        "name": "giovanni-battista-gaulli"
+    },
+    "608": {
+        "formar_id": 614,
+        "name": "johannes-vermeer"
+    },
+    "422": {
+        "formar_id": 426,
+        "name": "giovanni-battista-salvi-da-sassoferrato"
+    },
+    "661": {
+        "formar_id": 667,
+        "name": "juan-van-der-hamen"
+    },
+    "423": {
+        "formar_id": 427,
+        "name": "giovanni-battista-tiepolo"
+    },
+    "659": {
+        "formar_id": 665,
+        "name": "juan-de-valdes-leal"
+    },
+    "424": {
+        "formar_id": 428,
+        "name": "giovanni-battista-torriglia"
+    },
+    "427": {
+        "formar_id": 431,
+        "name": "giovanni-costa"
+    },
+    "431": {
+        "formar_id": 435,
+        "name": "giulio-romano"
+    },
+    "434": {
+        "formar_id": 438,
+        "name": "giuseppe-de-nittis"
+    },
+    "435": {
+        "formar_id": 439,
+        "name": "giuseppe-maria-crespi"
+    },
+    "436": {
+        "formar_id": 440,
+        "name": "giuseppe-mazzolini"
+    },
+    "437": {
+        "formar_id": 441,
+        "name": "grace-cossington-smith"
+    },
+    "438": {
+        "formar_id": 442,
+        "name": "graham-sutherland"
+    },
+    "439": {
+        "formar_id": 443,
+        "name": "grandma-moses"
+    },
+    "440": {
+        "formar_id": 444,
+        "name": "grant-wood"
+    },
+    "441": {
+        "formar_id": 445,
+        "name": "grigor-khanjyan"
+    },
+    "442": {
+        "formar_id": 446,
+        "name": "grigoriy-myasoyedov"
+    },
+    "835": {
+        "formar_id": 841,
+        "name": "nikolai-ge"
+    },
+    "445": {
+        "formar_id": 449,
+        "name": "guity-novin"
+    },
+    "446": {
+        "formar_id": 450,
+        "name": "guntis-strupulis"
+    },
+    "447": {
+        "formar_id": 451,
+        "name": "gustav-klimt"
+    },
+    "600": {
+        "formar_id": 606,
+        "name": "joaqu-n-sorolla"
+    },
+    "448": {
+        "formar_id": 452,
+        "name": "gustave-boulanger"
+    },
+    "449": {
+        "formar_id": 453,
+        "name": "gustave-caillebotte"
+    },
+    "450": {
+        "formar_id": 454,
+        "name": "gustave-courbet"
+    },
+    "451": {
+        "formar_id": 455,
+        "name": "gustave-dore"
+    },
+    "453": {
+        "formar_id": 457,
+        "name": "gustave-moreau"
+    },
+    "454": {
+        "formar_id": 458,
+        "name": "gustave-singier"
+    },
+    "898": {
+        "formar_id": 904,
+        "name": "philip-wilson-steer"
+    },
+    "458": {
+        "formar_id": 462,
+        "name": "haddon-sundbloom"
+    },
+    "745": {
+        "formar_id": 751,
+        "name": "magnus-enckell"
+    },
+    "459": {
+        "formar_id": 463,
+        "name": "halonen-pekka"
+    },
+    "460": {
+        "formar_id": 464,
+        "name": "hans-andersen-brendekilde"
+    },
+    "461": {
+        "formar_id": 465,
+        "name": "hans-baldung"
+    },
+    "462": {
+        "formar_id": 466,
+        "name": "hans-hoffmann"
+    },
+    "464": {
+        "formar_id": 468,
+        "name": "hans-holbein-the-younger"
+    },
+    "465": {
+        "formar_id": 469,
+        "name": "hans-memling"
+    },
+    "466": {
+        "formar_id": 470,
+        "name": "hans-von-aachen"
+    },
+    "893": {
+        "formar_id": 899,
+        "name": "peter-paul-rubens"
+    },
+    "467": {
+        "formar_id": 471,
+        "name": "haroutiun-galentz"
+    },
+    "693": {
+        "formar_id": 699,
+        "name": "konstantin-korovin"
+    },
+    "469": {
+        "formar_id": 473,
+        "name": "hedda-sterne"
+    },
+    "470": {
+        "formar_id": 474,
+        "name": "heinrich-burkel"
+    },
+    "471": {
+        "formar_id": 475,
+        "name": "heinrich-reinhold"
+    },
+    "472": {
+        "formar_id": 476,
+        "name": "helen-frankenthaler"
+    },
+    "473": {
+        "formar_id": 477,
+        "name": "helio-oiticica"
+    },
+    "474": {
+        "formar_id": 478,
+        "name": "hendrick-avercamp"
+    },
+    "475": {
+        "formar_id": 479,
+        "name": "hendrick-goltzius"
+    },
+    "477": {
+        "formar_id": 481,
+        "name": "henri-de-toulouse-lautrec"
+    },
+    "847": {
+        "formar_id": 853,
+        "name": "odilon-redon"
+    },
+    "478": {
+        "formar_id": 482,
+        "name": "henri-edmond-cross"
+    },
+    "480": {
+        "formar_id": 484,
+        "name": "henri-gervex"
+    },
+    "904": {
+        "formar_id": 910,
+        "name": "pierre-bonnard"
+    },
+    "483": {
+        "formar_id": 487,
+        "name": "henri-regnault"
+    },
+    "484": {
+        "formar_id": 488,
+        "name": "henri-rousseau"
+    },
+    "517": {
+        "formar_id": 521,
+        "name": "isaac-levitan"
+    },
+    "485": {
+        "formar_id": 489,
+        "name": "henry-fuseli"
+    },
+    "652": {
+        "formar_id": 658,
+        "name": "joseph-wright"
+    },
+    "486": {
+        "formar_id": 490,
+        "name": "henry-herbert-la-thangue"
+    },
+    "487": {
+        "formar_id": 491,
+        "name": "henry-moore-ra"
+    },
+    "488": {
+        "formar_id": 492,
+        "name": "henry-ossawa-tanner"
+    },
+    "819": {
+        "formar_id": 825,
+        "name": "mykola-yaroshenko"
+    },
+    "489": {
+        "formar_id": 493,
+        "name": "henry-raeburn"
+    },
+    "490": {
+        "formar_id": 494,
+        "name": "henry-scott-tuke"
+    },
+    "491": {
+        "formar_id": 495,
+        "name": "henryk-siemiradzki"
+    },
+    "492": {
+        "formar_id": 496,
+        "name": "herbert-james-draper"
+    },
+    "634": {
+        "formar_id": 640,
+        "name": "john-william-waterhouse"
+    },
+    "493": {
+        "formar_id": 497,
+        "name": "hercules-seghers"
+    },
+    "494": {
+        "formar_id": 498,
+        "name": "hermann-david-salomon-corrodi"
+    },
+    "495": {
+        "formar_id": 499,
+        "name": "hermann-ottomar-herzog"
+    },
+    "497": {
+        "formar_id": 501,
+        "name": "hilma-af-klint"
+    },
+    "498": {
+        "formar_id": 502,
+        "name": "honore-daumier"
+    },
+    "499": {
+        "formar_id": 503,
+        "name": "horace-pippin"
+    },
+    "500": {
+        "formar_id": 504,
+        "name": "horace-vernet"
+    },
+    "501": {
+        "formar_id": 505,
+        "name": "hossein-zenderoudi"
+    },
+    "502": {
+        "formar_id": 506,
+        "name": "hovhannes-zardaryan"
+    },
+    "503": {
+        "formar_id": 507,
+        "name": "howard-hodgkin"
+    },
+    "848": {
+        "formar_id": 854,
+        "name": "oleg-holosiy"
+    },
+    "504": {
+        "formar_id": 508,
+        "name": "howard-mehring"
+    },
+    "505": {
+        "formar_id": 509,
+        "name": "hryhorii-havrylenko"
+    },
+    "506": {
+        "formar_id": 510,
+        "name": "hubertine-heijermans"
+    },
+    "507": {
+        "formar_id": 511,
+        "name": "hugo-muhlig"
+    },
+    "508": {
+        "formar_id": 512,
+        "name": "hugo-simberg"
+    },
+    "954": {
+        "formar_id": 960,
+        "name": "robert-henri"
+    },
+    "510": {
+        "formar_id": 514,
+        "name": "hyacinthe-rigaud"
+    },
+    "576": {
+        "formar_id": 581,
+        "name": "jean-baptiste-vanmour"
+    },
+    "511": {
+        "formar_id": 515,
+        "name": "ilse-dhollander"
+    },
+    "1090": {
+        "formar_id": 1097,
+        "name": "willard-metcalf"
+    },
+    "512": {
+        "formar_id": 516,
+        "name": "ilya-mashkov"
+    },
+    "513": {
+        "formar_id": 517,
+        "name": "ilya-repin"
+    },
+    "515": {
+        "formar_id": 519,
+        "name": "irma-blank"
+    },
+    "516": {
+        "formar_id": 520,
+        "name": "isaac-israels"
+    },
+    "518": {
+        "formar_id": 522,
+        "name": "isaac-van-ostade"
+    },
+    "519": {
+        "formar_id": 523,
+        "name": "iurie-matei"
+    },
+    "833": {
+        "formar_id": 839,
+        "name": "niko-pirosmani"
+    },
+    "522": {
+        "formar_id": 526,
+        "name": "ivan-eyre"
+    },
+    "523": {
+        "formar_id": 527,
+        "name": "ivan-generalic"
+    },
+    "524": {
+        "formar_id": 528,
+        "name": "ivan-grohar"
+    },
+    "525": {
+        "formar_id": 529,
+        "name": "ivan-kramskoy"
+    },
+    "526": {
+        "formar_id": 530,
+        "name": "ivan-nikitin"
+    },
+    "528": {
+        "formar_id": 532,
+        "name": "ivan-tvorozhnikov"
+    },
+    "529": {
+        "formar_id": 533,
+        "name": "ivan-vladimirov"
+    },
+    "530": {
+        "formar_id": 534,
+        "name": "j-e-h-macdonald"
+    },
+    "532": {
+        "formar_id": 536,
+        "name": "jackson-pollock"
+    },
+    "534": {
+        "formar_id": 538,
+        "name": "jacob-ochtervelt"
+    },
+    "535": {
+        "formar_id": 539,
+        "name": "jacob-peter-gowy"
+    },
+    "536": {
+        "formar_id": 540,
+        "name": "jacob-van-ruisdael"
+    },
+    "537": {
+        "formar_id": 541,
+        "name": "jacopo-bassano"
+    },
+    "538": {
+        "formar_id": 542,
+        "name": "jacopo-bellini"
+    },
+    "240": {
+        "formar_id": 241,
+        "name": "dirk-bouts"
+    },
+    "539": {
+        "formar_id": 543,
+        "name": "jacopo-pontormo"
+    },
+    "540": {
+        "formar_id": 545,
+        "name": "jacques-emile-blanche"
+    },
+    "1024": {
+        "formar_id": 1031,
+        "name": "thomas-eakins"
+    },
+    "541": {
+        "formar_id": 546,
+        "name": "jacques-h-rold"
+    },
+    "542": {
+        "formar_id": 547,
+        "name": "jacques-louis-david"
+    },
+    "543": {
+        "formar_id": 548,
+        "name": "jacques-stella"
+    },
+    "544": {
+        "formar_id": 549,
+        "name": "jacques-villon"
+    },
+    "545": {
+        "formar_id": 550,
+        "name": "james-barry"
+    },
+    "546": {
+        "formar_id": 551,
+        "name": "james-ensor"
+    },
+    "547": {
+        "formar_id": 552,
+        "name": "james-mcneill-whistler"
+    },
+    "548": {
+        "formar_id": 553,
+        "name": "james-rosenquist"
+    },
+    "549": {
+        "formar_id": 554,
+        "name": "james-tissot"
+    },
+    "1054": {
+        "formar_id": 1061,
+        "name": "vicente-juan-masip"
+    },
+    "550": {
+        "formar_id": 555,
+        "name": "james-ward"
+    },
+    "552": {
+        "formar_id": 557,
+        "name": "jan-brueghel-the-elder"
+    },
+    "554": {
+        "formar_id": 559,
+        "name": "jan-lievens"
+    },
+    "662": {
+        "formar_id": 668,
+        "name": "judith-leyster"
+    },
+    "557": {
+        "formar_id": 562,
+        "name": "jan-provoost"
+    },
+    "558": {
+        "formar_id": 563,
+        "name": "jan-siberechts"
+    },
+    "559": {
+        "formar_id": 564,
+        "name": "jan-sluyters"
+    },
+    "560": {
+        "formar_id": 565,
+        "name": "jan-steen"
+    },
+    "561": {
+        "formar_id": 566,
+        "name": "jan-toorop"
+    },
+    "563": {
+        "formar_id": 568,
+        "name": "jan-van-goyen"
+    },
+    "565": {
+        "formar_id": 570,
+        "name": "jana-brike"
+    },
+    "566": {
+        "formar_id": 571,
+        "name": "jane-sutherland"
+    },
+    "568": {
+        "formar_id": 573,
+        "name": "jasper-johns"
+    },
+    "569": {
+        "formar_id": 574,
+        "name": "jay-defeo"
+    },
+    "570": {
+        "formar_id": 575,
+        "name": "jean-andre-rixens"
+    },
+    "571": {
+        "formar_id": 576,
+        "name": "jean-arp"
+    },
+    "572": {
+        "formar_id": 577,
+        "name": "jean-auguste-dominique-ingres"
+    },
+    "573": {
+        "formar_id": 578,
+        "name": "jean-baptiste-greuze"
+    },
+    "575": {
+        "formar_id": 580,
+        "name": "jean-baptiste-simeon-chardin"
+    },
+    "914": {
+        "formar_id": 920,
+        "name": "pietro-da-cortona"
+    },
+    "577": {
+        "formar_id": 582,
+        "name": "jean-dubuffet"
+    },
+    "578": {
+        "formar_id": 583,
+        "name": "jean-etienne-liotard"
+    },
+    "579": {
+        "formar_id": 584,
+        "name": "jean-fautrier"
+    },
+    "580": {
+        "formar_id": 586,
+        "name": "jean-francois-millet"
+    },
+    "582": {
+        "formar_id": 588,
+        "name": "jean-helion"
+    },
+    "583": {
+        "formar_id": 589,
+        "name": "jean-hey"
+    },
+    "584": {
+        "formar_id": 590,
+        "name": "jean-honore-fragonard"
+    },
+    "597": {
+        "formar_id": 603,
+        "name": "joachim-wtewael"
+    },
+    "585": {
+        "formar_id": 591,
+        "name": "jean-jansem"
+    },
+    "586": {
+        "formar_id": 592,
+        "name": "jean-leon-gerome-ferris"
+    },
+    "1043": {
+        "formar_id": 1050,
+        "name": "valentin-serov"
+    },
+    "587": {
+        "formar_id": 593,
+        "name": "jean-leon-gerome"
+    },
+    "588": {
+        "formar_id": 594,
+        "name": "jean-marc-nattier"
+    },
+    "589": {
+        "formar_id": 595,
+        "name": "jean-metzinger"
+    },
+    "590": {
+        "formar_id": 596,
+        "name": "jean-michel-basquiat"
+    },
+    "591": {
+        "formar_id": 597,
+        "name": "jean-paul-laurens"
+    },
+    "592": {
+        "formar_id": 598,
+        "name": "jeffrey-smart"
+    },
+    "797": {
+        "formar_id": 803,
+        "name": "max-weber"
+    },
+    "594": {
+        "formar_id": 600,
+        "name": "jim-dine"
+    },
+    "595": {
+        "formar_id": 601,
+        "name": "jo-baer"
+    },
+    "596": {
+        "formar_id": 602,
+        "name": "joachim-patinir"
+    },
+    "601": {
+        "formar_id": 607,
+        "name": "joaquin-torres-garcia"
+    },
+    "602": {
+        "formar_id": 608,
+        "name": "johan-christian-dahl"
+    },
+    "604": {
+        "formar_id": 610,
+        "name": "johann-koler"
+    },
+    "605": {
+        "formar_id": 611,
+        "name": "johann-nepomuk-passini"
+    },
+    "606": {
+        "formar_id": 612,
+        "name": "johannes-itten"
+    },
+    "607": {
+        "formar_id": 613,
+        "name": "johannes-moreelse"
+    },
+    "609": {
+        "formar_id": 615,
+        "name": "john-altoon"
+    },
+    "610": {
+        "formar_id": 616,
+        "name": "john-atkinson-grimshaw"
+    },
+    "611": {
+        "formar_id": 617,
+        "name": "john-collier"
+    },
+    "613": {
+        "formar_id": 619,
+        "name": "john-currin"
+    },
+    "615": {
+        "formar_id": 621,
+        "name": "john-frederick-herring-sr"
+    },
+    "616": {
+        "formar_id": 622,
+        "name": "john-frederick-lewis"
+    },
+    "617": {
+        "formar_id": 623,
+        "name": "john-french-sloan"
+    },
+    "618": {
+        "formar_id": 624,
+        "name": "john-glover"
+    },
+    "620": {
+        "formar_id": 626,
+        "name": "john-hoppner"
+    },
+    "727": {
+        "formar_id": 733,
+        "name": "louise-elisabeth-vigee-le-brun"
+    },
+    "621": {
+        "formar_id": 627,
+        "name": "john-james-audubon"
+    },
+    "622": {
+        "formar_id": 628,
+        "name": "john-lee"
+    },
+    "623": {
+        "formar_id": 629,
+        "name": "john-martin"
+    },
+    "624": {
+        "formar_id": 630,
+        "name": "john-o-connor"
+    },
+    "626": {
+        "formar_id": 632,
+        "name": "john-pettie"
+    },
+    "627": {
+        "formar_id": 633,
+        "name": "john-quidor"
+    },
+    "628": {
+        "formar_id": 634,
+        "name": "john-simpson"
+    },
+    "629": {
+        "formar_id": 635,
+        "name": "john-singer-sargent"
+    },
+    "631": {
+        "formar_id": 637,
+        "name": "john-steuart-curry"
+    },
+    "1006": {
+        "formar_id": 1013,
+        "name": "tamara-de-lempicka"
+    },
+    "632": {
+        "formar_id": 638,
+        "name": "john-trumbull"
+    },
+    "633": {
+        "formar_id": 639,
+        "name": "john-william-godward"
+    },
+    "635": {
+        "formar_id": 641,
+        "name": "jorge-castillo"
+    },
+    "637": {
+        "formar_id": 643,
+        "name": "jose-ferraz-de-almeida-junior"
+    },
+    "639": {
+        "formar_id": 645,
+        "name": "jose-higuera"
+    },
+    "763": {
+        "formar_id": 769,
+        "name": "marina-pallares"
+    },
+    "640": {
+        "formar_id": 646,
+        "name": "jose-malhoa"
+    },
+    "641": {
+        "formar_id": 647,
+        "name": "josef-albers"
+    },
+    "642": {
+        "formar_id": 648,
+        "name": "josef-capek"
+    },
+    "643": {
+        "formar_id": 649,
+        "name": "josef-kriehuber"
+    },
+    "644": {
+        "formar_id": 650,
+        "name": "josefa-de-obidos"
+    },
+    "645": {
+        "formar_id": 651,
+        "name": "joseph-anton-koch"
+    },
+    "646": {
+        "formar_id": 652,
+        "name": "joseph-beuys"
+    },
+    "648": {
+        "formar_id": 654,
+        "name": "joseph-ducreux"
+    },
+    "650": {
+        "formar_id": 656,
+        "name": "joseph-kreutzinger"
+    },
+    "651": {
+        "formar_id": 657,
+        "name": "joseph-stella"
+    },
+    "778": {
+        "formar_id": 784,
+        "name": "mary-beale"
+    },
+    "653": {
+        "formar_id": 659,
+        "name": "joshua-johnson"
+    },
+    "906": {
+        "formar_id": 912,
+        "name": "pierre-narcisse-guerin"
+    },
+    "657": {
+        "formar_id": 663,
+        "name": "jozsef-rippl-ronai"
+    },
+    "658": {
+        "formar_id": 664,
+        "name": "juan-bautista-maino"
+    },
+    "660": {
+        "formar_id": 666,
+        "name": "juan-gris"
+    },
+    "663": {
+        "formar_id": 669,
+        "name": "jules-bastien-lepage"
+    },
+    "664": {
+        "formar_id": 670,
+        "name": "jules-breton"
+    },
+    "665": {
+        "formar_id": 671,
+        "name": "jules-joseph-lefebvre"
+    },
+    "666": {
+        "formar_id": 672,
+        "name": "jules-perahim"
+    },
+    "779": {
+        "formar_id": 785,
+        "name": "mary-cassatt"
+    },
+    "668": {
+        "formar_id": 674,
+        "name": "julian-ashton"
+    },
+    "669": {
+        "formar_id": 675,
+        "name": "julian-falat"
+    },
+    "670": {
+        "formar_id": 676,
+        "name": "julian-schnabel"
+    },
+    "671": {
+        "formar_id": 677,
+        "name": "julius-leblanc-stewart"
+    },
+    "672": {
+        "formar_id": 678,
+        "name": "juriaen-pool"
+    },
+    "673": {
+        "formar_id": 679,
+        "name": "juriaen-van-streeck"
+    },
+    "677": {
+        "formar_id": 683,
+        "name": "karel-appel"
+    },
+    "679": {
+        "formar_id": 685,
+        "name": "karl-lessing"
+    },
+    "680": {
+        "formar_id": 686,
+        "name": "karl-schmidt-rottluff"
+    },
+    "1082": {
+        "formar_id": 1089,
+        "name": "wassily-kandinsky"
+    },
+    "682": {
+        "formar_id": 688,
+        "name": "kees-van-dongen"
+    },
+    "786": {
+        "formar_id": 792,
+        "name": "maurice-prendergast"
+    },
+    "683": {
+        "formar_id": 689,
+        "name": "kitagawa-utamaro"
+    },
+    "685": {
+        "formar_id": 691,
+        "name": "klavdy-lebedev"
+    },
+    "687": {
+        "formar_id": 693,
+        "name": "koboyan-gregoire"
+    },
+    "688": {
+        "formar_id": 694,
+        "name": "koloman-moser"
+    },
+    "689": {
+        "formar_id": 695,
+        "name": "konrad-klapheck"
+    },
+    "690": {
+        "formar_id": 696,
+        "name": "konrad-zuse"
+    },
+    "691": {
+        "formar_id": 697,
+        "name": "konstantin-bogaevsky"
+    },
+    "692": {
+        "formar_id": 698,
+        "name": "konstantin-ivanovich-gorbatov"
+    },
+    "696": {
+        "formar_id": 702,
+        "name": "konstantin-yuon"
+    },
+    "698": {
+        "formar_id": 704,
+        "name": "kukryniksy"
+    },
+    "699": {
+        "formar_id": 705,
+        "name": "kurt-schwitters"
+    },
+    "1042": {
+        "formar_id": 1049,
+        "name": "umberto-boccioni"
+    },
+    "701": {
+        "formar_id": 707,
+        "name": "l-s-lowry"
+    },
+    "702": {
+        "formar_id": 708,
+        "name": "lady-frieda-harris"
+    },
+    "703": {
+        "formar_id": 709,
+        "name": "lasar-segall"
+    },
+    "939": {
+        "formar_id": 945,
+        "name": "richard-caton-woodville-sr"
+    },
+    "705": {
+        "formar_id": 711,
+        "name": "laszlo-moholy-nagy"
+    },
+    "706": {
+        "formar_id": 712,
+        "name": "laura-knight"
+    },
+    "707": {
+        "formar_id": 713,
+        "name": "lavinia-fontana"
+    },
+    "708": {
+        "formar_id": 714,
+        "name": "lawren-harris"
+    },
+    "709": {
+        "formar_id": 715,
+        "name": "le-corbusier"
+    },
+    "711": {
+        "formar_id": 717,
+        "name": "lee-krasner"
+    },
+    "712": {
+        "formar_id": 718,
+        "name": "leon-bakst"
+    },
+    "713": {
+        "formar_id": 719,
+        "name": "leon-bazille-perrault"
+    },
+    "715": {
+        "formar_id": 721,
+        "name": "leon-kroll"
+    },
+    "716": {
+        "formar_id": 722,
+        "name": "leon-wyczolkowski"
+    },
+    "718": {
+        "formar_id": 724,
+        "name": "leonid-sejka"
+    },
+    "720": {
+        "formar_id": 726,
+        "name": "lev-lagorio"
+    },
+    "721": {
+        "formar_id": 727,
+        "name": "lionel-noel-royer"
+    },
+    "734": {
+        "formar_id": 740,
+        "name": "lucas-cranach-the-elder"
+    },
+    "723": {
+        "formar_id": 729,
+        "name": "louis-janmot"
+    },
+    "726": {
+        "formar_id": 732,
+        "name": "louise-bourgeois"
+    },
+    "832": {
+        "formar_id": 838,
+        "name": "nicolas-tournier"
+    },
+    "729": {
+        "formar_id": 735,
+        "name": "lovis-corinth"
+    },
+    "730": {
+        "formar_id": 736,
+        "name": "lubo-kristek"
+    },
+    "731": {
+        "formar_id": 737,
+        "name": "luc-olivier-merson"
+    },
+    "732": {
+        "formar_id": 738,
+        "name": "luc-tuymans"
+    },
+    "951": {
+        "formar_id": 957,
+        "name": "robert-campin"
+    },
+    "735": {
+        "formar_id": 741,
+        "name": "lucian-freud"
+    },
+    "736": {
+        "formar_id": 742,
+        "name": "ludwig-knaus"
+    },
+    "737": {
+        "formar_id": 743,
+        "name": "ludwig-passini"
+    },
+    "738": {
+        "formar_id": 744,
+        "name": "luigi-russolo"
+    },
+    "739": {
+        "formar_id": 745,
+        "name": "luke-fildes"
+    },
+    "741": {
+        "formar_id": 747,
+        "name": "lyubov-popova"
+    },
+    "742": {
+        "formar_id": 748,
+        "name": "maarten-de-vos"
+    },
+    "743": {
+        "formar_id": 749,
+        "name": "mabuse"
+    },
+    "746": {
+        "formar_id": 752,
+        "name": "man-ray"
+    },
+    "748": {
+        "formar_id": 754,
+        "name": "marc-chagall"
+    },
+    "749": {
+        "formar_id": 755,
+        "name": "marcel-duchamp"
+    },
+    "750": {
+        "formar_id": 756,
+        "name": "marcus-stone"
+    },
+    "751": {
+        "formar_id": 757,
+        "name": "marevna-marie-vorobieff"
+    },
+    "752": {
+        "formar_id": 758,
+        "name": "margaret-macdonald"
+    },
+    "753": {
+        "formar_id": 759,
+        "name": "maria-blanchard"
+    },
+    "754": {
+        "formar_id": 760,
+        "name": "maria-fortuny"
+    },
+    "755": {
+        "formar_id": 761,
+        "name": "mariam-aslamazian"
+    },
+    "756": {
+        "formar_id": 762,
+        "name": "marianne-stokes"
+    },
+    "757": {
+        "formar_id": 763,
+        "name": "marie-bashkirtseff"
+    },
+    "758": {
+        "formar_id": 764,
+        "name": "marie-bracquemond"
+    },
+    "759": {
+        "formar_id": 765,
+        "name": "marie-denise-villers"
+    },
+    "760": {
+        "formar_id": 766,
+        "name": "marie-guillemine-benoist"
+    },
+    "761": {
+        "formar_id": 767,
+        "name": "marie-laurencin"
+    },
+    "762": {
+        "formar_id": 768,
+        "name": "marietta-robusti"
+    },
+    "764": {
+        "formar_id": 770,
+        "name": "marinus-van-reymerswaele"
+    },
+    "765": {
+        "formar_id": 771,
+        "name": "mario-sironi"
+    },
+    "822": {
+        "formar_id": 828,
+        "name": "natalia-goncharova"
+    },
+    "767": {
+        "formar_id": 773,
+        "name": "mark-ryden"
+    },
+    "768": {
+        "formar_id": 774,
+        "name": "mark-tansey"
+    },
+    "769": {
+        "formar_id": 775,
+        "name": "marsden-hartley"
+    },
+    "770": {
+        "formar_id": 776,
+        "name": "marten-eskil-winge"
+    },
+    "771": {
+        "formar_id": 777,
+        "name": "martin-benka"
+    },
+    "772": {
+        "formar_id": 778,
+        "name": "martin-johnson-heade"
+    },
+    "773": {
+        "formar_id": 779,
+        "name": "martin-kober"
+    },
+    "774": {
+        "formar_id": 780,
+        "name": "martin-schongauer"
+    },
+    "900": {
+        "formar_id": 906,
+        "name": "piero-della-francesca"
+    },
+    "775": {
+        "formar_id": 781,
+        "name": "martin-yeoman"
+    },
+    "776": {
+        "formar_id": 782,
+        "name": "martiros-sarian"
+    },
+    "777": {
+        "formar_id": 783,
+        "name": "martyl-langsdorf"
+    },
+    "780": {
+        "formar_id": 786,
+        "name": "matthias-grunewald"
+    },
+    "782": {
+        "formar_id": 788,
+        "name": "mattia-preti"
+    },
+    "784": {
+        "formar_id": 790,
+        "name": "maurice-denis"
+    },
+    "785": {
+        "formar_id": 791,
+        "name": "maurice-poirson"
+    },
+    "787": {
+        "formar_id": 793,
+        "name": "maurice-quentin-de-la-tour"
+    },
+    "788": {
+        "formar_id": 794,
+        "name": "maurice-utrillo"
+    },
+    "789": {
+        "formar_id": 795,
+        "name": "maurycy-gottlieb"
+    },
+    "793": {
+        "formar_id": 799,
+        "name": "max-kurzweil"
+    },
+    "791": {
+        "formar_id": 797,
+        "name": "max-ernst"
+    },
+    "792": {
+        "formar_id": 798,
+        "name": "max-klinger"
+    },
+    "794": {
+        "formar_id": 800,
+        "name": "max-liebermann"
+    },
+    "872": {
+        "formar_id": 878,
+        "name": "paul-cezanne"
+    },
+    "795": {
+        "formar_id": 801,
+        "name": "max-pechstein"
+    },
+    "796": {
+        "formar_id": 802,
+        "name": "max-slevogt"
+    },
+    "798": {
+        "formar_id": 804,
+        "name": "maxfield-parrish"
+    },
+    "800": {
+        "formar_id": 806,
+        "name": "maxime-maufra"
+    },
+    "801": {
+        "formar_id": 807,
+        "name": "melissa-meyer"
+    },
+    "802": {
+        "formar_id": 808,
+        "name": "mher-abeghian"
+    },
+    "803": {
+        "formar_id": 809,
+        "name": "michael-bell"
+    },
+    "945": {
+        "formar_id": 951,
+        "name": "richard-lindner"
+    },
+    "805": {
+        "formar_id": 811,
+        "name": "michelangelo"
+    },
+    "806": {
+        "formar_id": 812,
+        "name": "mihaly-munkacsy"
+    },
+    "807": {
+        "formar_id": 813,
+        "name": "mikhail-larionov"
+    },
+    "809": {
+        "formar_id": 815,
+        "name": "mikhail-nesterov"
+    },
+    "810": {
+        "formar_id": 816,
+        "name": "mikhail-shibanov"
+    },
+    "811": {
+        "formar_id": 817,
+        "name": "mikhail-vrubel"
+    },
+    "812": {
+        "formar_id": 818,
+        "name": "miklos-barabas"
+    },
+    "813": {
+        "formar_id": 819,
+        "name": "milton-avery"
+    },
+    "814": {
+        "formar_id": 820,
+        "name": "mira-schendel"
+    },
+    "815": {
+        "formar_id": 821,
+        "name": "moise-kisling"
+    },
+    "816": {
+        "formar_id": 822,
+        "name": "morris-louis"
+    },
+    "817": {
+        "formar_id": 823,
+        "name": "morteza-katouzian"
+    },
+    "818": {
+        "formar_id": 824,
+        "name": "mstislav-dobuzhinsky"
+    },
+    "821": {
+        "formar_id": 827,
+        "name": "nasreddine-dinet"
+    },
+    "823": {
+        "formar_id": 829,
+        "name": "nathan-altman"
+    },
+    "824": {
+        "formar_id": 830,
+        "name": "neil-welliver"
+    },
+    "825": {
+        "formar_id": 831,
+        "name": "niccolo-cannicci"
+    },
+    "826": {
+        "formar_id": 832,
+        "name": "nicholas-roerich"
+    },
+    "827": {
+        "formar_id": 833,
+        "name": "nicolae-grigorescu"
+    },
+    "828": {
+        "formar_id": 834,
+        "name": "nicolae-vermont"
+    },
+    "829": {
+        "formar_id": 835,
+        "name": "nicolaes-maes"
+    },
+    "830": {
+        "formar_id": 836,
+        "name": "nicolas-antoine-taunay"
+    },
+    "834": {
+        "formar_id": 840,
+        "name": "nikola-martinoski"
+    },
+    "836": {
+        "formar_id": 842,
+        "name": "nikolaos-gyzis"
+    },
+    "837": {
+        "formar_id": 843,
+        "name": "nikolaos-lytras"
+    },
+    "1080": {
+        "formar_id": 1087,
+        "name": "walter-gramatte"
+    },
+    "840": {
+        "formar_id": 846,
+        "name": "noe-bordignon"
+    },
+    "842": {
+        "formar_id": 848,
+        "name": "nuno-goncalves"
+    },
+    "843": {
+        "formar_id": 849,
+        "name": "nuri-iyem"
+    },
+    "886": {
+        "formar_id": 892,
+        "name": "pavel-filonov"
+    },
+    "844": {
+        "formar_id": 850,
+        "name": "nyoman-masriadi"
+    },
+    "846": {
+        "formar_id": 852,
+        "name": "odd-nerdrum"
+    },
+    "850": {
+        "formar_id": 856,
+        "name": "olennikov-mikhail-zinovevich"
+    },
+    "851": {
+        "formar_id": 857,
+        "name": "olga-rozanova"
+    },
+    "852": {
+        "formar_id": 858,
+        "name": "orazio-gentileschi"
+    },
+    "855": {
+        "formar_id": 861,
+        "name": "oskar-schlemmer"
+    },
+    "856": {
+        "formar_id": 862,
+        "name": "osman-hamdi"
+    },
+    "857": {
+        "formar_id": 863,
+        "name": "oswald-achenbach"
+    },
+    "858": {
+        "formar_id": 864,
+        "name": "otto-constantin"
+    },
+    "860": {
+        "formar_id": 866,
+        "name": "otto-mueller"
+    },
+    "862": {
+        "formar_id": 868,
+        "name": "palma-vecchio"
+    },
+    "863": {
+        "formar_id": 869,
+        "name": "panos-terlemezian"
+    },
+    "864": {
+        "formar_id": 870,
+        "name": "paolo-uccello"
+    },
+    "866": {
+        "formar_id": 872,
+        "name": "parmigianino"
+    },
+    "867": {
+        "formar_id": 873,
+        "name": "pasquale-celommi"
+    },
+    "868": {
+        "formar_id": 874,
+        "name": "pat-steir"
+    },
+    "869": {
+        "formar_id": 875,
+        "name": "patrick-caulfield"
+    },
+    "870": {
+        "formar_id": 876,
+        "name": "patrick-heron"
+    },
+    "1117": {
+        "formar_id": 1124,
+        "name": "yves-tanguy"
+    },
+    "871": {
+        "formar_id": 877,
+        "name": "patrick-pietropoli"
+    },
+    "1101": {
+        "formar_id": 1108,
+        "name": "william-holman-hunt"
+    },
+    "873": {
+        "formar_id": 879,
+        "name": "paul-delaroche"
+    },
+    "875": {
+        "formar_id": 881,
+        "name": "paul-emile-chabas"
+    },
+    "877": {
+        "formar_id": 883,
+        "name": "paul-jenkins"
+    },
+    "878": {
+        "formar_id": 884,
+        "name": "paul-klee"
+    },
+    "1004": {
+        "formar_id": 1011,
+        "name": "suzanne-valadon"
+    },
+    "880": {
+        "formar_id": 886,
+        "name": "paul-peel"
+    },
+    "883": {
+        "formar_id": 889,
+        "name": "paula-modersohn-becker"
+    },
+    "884": {
+        "formar_id": 890,
+        "name": "pauline-boty"
+    },
+    "888": {
+        "formar_id": 894,
+        "name": "pedro-americo"
+    },
+    "889": {
+        "formar_id": 895,
+        "name": "pellizza-da-volpedo"
+    },
+    "891": {
+        "formar_id": 897,
+        "name": "peter-blake"
+    },
+    "894": {
+        "formar_id": 900,
+        "name": "petro-kholodny-elder"
+    },
+    "896": {
+        "formar_id": 902,
+        "name": "petrus-van-schendel"
+    },
+    "897": {
+        "formar_id": 903,
+        "name": "philip-guston"
+    },
+    "899": {
+        "formar_id": 905,
+        "name": "philipp-otto-runge"
+    },
+    "901": {
+        "formar_id": 907,
+        "name": "piero-di-cosimo"
+    },
+    "902": {
+        "formar_id": 908,
+        "name": "pierre-alechinsky"
+    },
+    "905": {
+        "formar_id": 911,
+        "name": "pierre-henri-de-valenciennes"
+    },
+    "1011": {
+        "formar_id": 1018,
+        "name": "theo-van-doesburg"
+    },
+    "912": {
+        "formar_id": 918,
+        "name": "pieter-brueghel-the-younger"
+    },
+    "913": {
+        "formar_id": 919,
+        "name": "pieter-de-hooch"
+    },
+    "917": {
+        "formar_id": 923,
+        "name": "placido-costanzi"
+    },
+    "918": {
+        "formar_id": 924,
+        "name": "plautilla-nelli"
+    },
+    "920": {
+        "formar_id": 926,
+        "name": "pyotr-konchalovsky"
+    },
+    "921": {
+        "formar_id": 927,
+        "name": "quentin-matsys"
+    },
+    "922": {
+        "formar_id": 928,
+        "name": "r-b-kitaj"
+    },
+    "923": {
+        "formar_id": 929,
+        "name": "rachel-ruysch"
+    },
+    "926": {
+        "formar_id": 932,
+        "name": "rah-crawford"
+    },
+    "928": {
+        "formar_id": 934,
+        "name": "ralph-earl"
+    },
+    "929": {
+        "formar_id": 935,
+        "name": "ralph-goings"
+    },
+    "930": {
+        "formar_id": 936,
+        "name": "ralph-hedley"
+    },
+    "931": {
+        "formar_id": 937,
+        "name": "raoul-dufy"
+    },
+    "932": {
+        "formar_id": 938,
+        "name": "raphael"
+    },
+    "933": {
+        "formar_id": 939,
+        "name": "raquel-forner"
+    },
+    "934": {
+        "formar_id": 940,
+        "name": "rembrandt-peale"
+    },
+    "937": {
+        "formar_id": 943,
+        "name": "renato-guttuso"
+    },
+    "941": {
+        "formar_id": 947,
+        "name": "richard-estes"
+    },
+    "944": {
+        "formar_id": 950,
+        "name": "richard-hamilton"
+    },
+    "1114": {
+        "formar_id": 1121,
+        "name": "yiannis-moralis"
+    },
+    "946": {
+        "formar_id": 952,
+        "name": "richard-oelze"
+    },
+    "947": {
+        "formar_id": 953,
+        "name": "richard-parkes-bonington"
+    },
+    "948": {
+        "formar_id": 954,
+        "name": "richard-pousette-dart"
+    },
+    "949": {
+        "formar_id": 955,
+        "name": "richard-whitney"
+    },
+    "1116": {
+        "formar_id": 1123,
+        "name": "yun-hyong-keun"
+    },
+    "950": {
+        "formar_id": 956,
+        "name": "richard-wilson"
+    },
+    "952": {
+        "formar_id": 958,
+        "name": "robert-delaunay"
+    },
+    "953": {
+        "formar_id": 959,
+        "name": "robert-harris"
+    },
+    "955": {
+        "formar_id": 961,
+        "name": "robert-montenegro"
+    },
+    "957": {
+        "formar_id": 963,
+        "name": "robert-rauschenberg"
+    },
+    "958": {
+        "formar_id": 964,
+        "name": "robert-ryman"
+    },
+    "959": {
+        "formar_id": 965,
+        "name": "rockwell-kent"
+    },
+    "960": {
+        "formar_id": 966,
+        "name": "rodolfo-amoedo"
+    },
+    "961": {
+        "formar_id": 967,
+        "name": "roger-de-la-fresnaye"
+    },
+    "963": {
+        "formar_id": 969,
+        "name": "romualdo-locatelli"
+    },
+    "964": {
+        "formar_id": 970,
+        "name": "rosa-bonheur"
+    },
+    "966": {
+        "formar_id": 972,
+        "name": "rosso-fiorentino"
+    },
+    "968": {
+        "formar_id": 974,
+        "name": "rudolf-ernst"
+    },
+    "969": {
+        "formar_id": 975,
+        "name": "rudolf-von-alt"
+    },
+    "970": {
+        "formar_id": 976,
+        "name": "rufino-tamayo"
+    },
+    "971": {
+        "formar_id": 977,
+        "name": "salomon-koninck"
+    },
+    "972": {
+        "formar_id": 978,
+        "name": "salvador-dali"
+    },
+    "973": {
+        "formar_id": 979,
+        "name": "salvator-rosa"
+    },
+    "974": {
+        "formar_id": 980,
+        "name": "sami-gattoufi"
+    },
+    "975": {
+        "formar_id": 981,
+        "name": "samia-halaby"
+    },
+    "976": {
+        "formar_id": 982,
+        "name": "samira-eskandarfar"
+    },
+    "977": {
+        "formar_id": 983,
+        "name": "samuel-dirksz-van-hoogstraten"
+    },
+    "979": {
+        "formar_id": 985,
+        "name": "samuel-peploe"
+    },
+    "980": {
+        "formar_id": 986,
+        "name": "sandor-bortnyik"
+    },
+    "981": {
+        "formar_id": 987,
+        "name": "sandro-botticelli"
+    },
+    "982": {
+        "formar_id": 988,
+        "name": "santiago-rusinol"
+    },
+    "983": {
+        "formar_id": 989,
+        "name": "sattar-bahlulzadeh"
+    },
+    "984": {
+        "formar_id": 990,
+        "name": "sebastiano-del-piombo"
+    },
+    "985": {
+        "formar_id": 991,
+        "name": "sebastien-bourdon"
+    },
+    "986": {
+        "formar_id": 992,
+        "name": "sedrak-arakelyan"
+    },
+    "987": {
+        "formar_id": 993,
+        "name": "seraphine-louis"
+    },
+    "988": {
+        "formar_id": 994,
+        "name": "serge-sudeikin"
+    },
+    "989": {
+        "formar_id": 995,
+        "name": "sergiy-grigoriev"
+    },
+    "990": {
+        "formar_id": 996,
+        "name": "sharon-butler"
+    },
+    "991": {
+        "formar_id": 997,
+        "name": "shozo-shimamoto"
+    },
+    "992": {
+        "formar_id": 998,
+        "name": "sidney-nolan"
+    },
+    "993": {
+        "formar_id": 999,
+        "name": "silvestre"
+    },
+    "994": {
+        "formar_id": 1000,
+        "name": "silvestro-lega"
+    },
+    "995": {
+        "formar_id": 1001,
+        "name": "simeon-solomon"
+    },
+    "997": {
+        "formar_id": 1003,
+        "name": "simon-vouet"
+    },
+    "998": {
+        "formar_id": 1004,
+        "name": "sir-lawrence-alma-tadema"
+    },
+    "999": {
+        "formar_id": 1005,
+        "name": "sofonisba-anguissola"
+    },
+    "1002": {
+        "formar_id": 1009,
+        "name": "stefan-luchian"
+    },
+    "1003": {
+        "formar_id": 1010,
+        "name": "stuart-davis"
+    },
+    "1005": {
+        "formar_id": 1012,
+        "name": "t-c-steele"
+    },
+    "1007": {
+        "formar_id": 1014,
+        "name": "taras-shevchenko"
+    },
+    "1016": {
+        "formar_id": 1023,
+        "name": "theodore-chasseriau"
+    },
+    "1008": {
+        "formar_id": 1015,
+        "name": "tarsila-do-amaral"
+    },
+    "1009": {
+        "formar_id": 1016,
+        "name": "telemaco-signorini"
+    },
+    "1010": {
+        "formar_id": 1017,
+        "name": "tetyana-yablonska"
+    },
+    "1013": {
+        "formar_id": 1020,
+        "name": "theodoor-van-thulden"
+    },
+    "1015": {
+        "formar_id": 1022,
+        "name": "theodor-severin-kittelsen"
+    },
+    "1017": {
+        "formar_id": 1024,
+        "name": "theodore-gericault"
+    },
+    "1018": {
+        "formar_id": 1025,
+        "name": "theodore-robinson"
+    },
+    "1020": {
+        "formar_id": 1027,
+        "name": "theophrastos-triantafyllidis"
+    },
+    "1021": {
+        "formar_id": 1028,
+        "name": "thomas-cole"
+    },
+    "1022": {
+        "formar_id": 1029,
+        "name": "thomas-couture"
+    },
+    "1023": {
+        "formar_id": 1030,
+        "name": "thomas-dewing"
+    },
+    "1026": {
+        "formar_id": 1033,
+        "name": "thomas-hart-benton"
+    },
+    "1027": {
+        "formar_id": 1034,
+        "name": "thomas-jones"
+    },
+    "1028": {
+        "formar_id": 1035,
+        "name": "thomas-lawrence"
+    },
+    "1030": {
+        "formar_id": 1037,
+        "name": "thomas-pollock-anshutz"
+    },
+    "1031": {
+        "formar_id": 1038,
+        "name": "thomas-stuart-smith"
+    },
+    "1032": {
+        "formar_id": 1039,
+        "name": "thomas-sully"
+    },
+    "1035": {
+        "formar_id": 1042,
+        "name": "tivadar-kosztka-csontvary"
+    },
+    "1036": {
+        "formar_id": 1043,
+        "name": "tobias-verhaecht"
+    },
+    "1037": {
+        "formar_id": 1044,
+        "name": "tom-roberts"
+    },
+    "1039": {
+        "formar_id": 1046,
+        "name": "tran-van-can"
+    },
+    "1040": {
+        "formar_id": 1047,
+        "name": "tranquillo-cremona"
+    },
+    "1041": {
+        "formar_id": 1048,
+        "name": "tsuguharu-foujita"
+    },
+    "1044": {
+        "formar_id": 1051,
+        "name": "vanessa-bell"
+    },
+    "1046": {
+        "formar_id": 1053,
+        "name": "vartan-mahokian"
+    },
+    "1047": {
+        "formar_id": 1054,
+        "name": "vasiliy-ryabchenko"
+    },
+    "1049": {
+        "formar_id": 1056,
+        "name": "vasily-polenov"
+    },
+    "1050": {
+        "formar_id": 1057,
+        "name": "vasily-surikov"
+    },
+    "1052": {
+        "formar_id": 1059,
+        "name": "vasily-vereshchagin"
+    },
+    "1056": {
+        "formar_id": 1063,
+        "name": "victor-brauner"
+    },
+    "1057": {
+        "formar_id": 1064,
+        "name": "victor-pasmore"
+    },
+    "1063": {
+        "formar_id": 1070,
+        "name": "vilmos-aba-novak"
+    },
+    "1058": {
+        "formar_id": 1065,
+        "name": "victor-servranckx"
+    },
+    "1059": {
+        "formar_id": 1066,
+        "name": "victor-vasarely"
+    },
+    "1060": {
+        "formar_id": 1067,
+        "name": "viktor-vasnetsov"
+    },
+    "1061": {
+        "formar_id": 1068,
+        "name": "vilhelms-purvitis"
+    },
+    "1062": {
+        "formar_id": 1069,
+        "name": "vilho-lampi"
+    },
+    "1065": {
+        "formar_id": 1072,
+        "name": "vincenzo-abbati"
+    },
+    "1066": {
+        "formar_id": 1073,
+        "name": "vincenzo-cabianca"
+    },
+    "1069": {
+        "formar_id": 1076,
+        "name": "vincenzo-migliaro"
+    },
+    "1071": {
+        "formar_id": 1078,
+        "name": "vittorio-tessari"
+    },
+    "1073": {
+        "formar_id": 1080,
+        "name": "vladimir-loboda"
+    },
+    "1074": {
+        "formar_id": 1081,
+        "name": "vladimir-makovsky"
+    },
+    "1075": {
+        "formar_id": 1082,
+        "name": "vladimir-tatlin"
+    },
+    "1077": {
+        "formar_id": 1084,
+        "name": "vrabic"
+    },
+    "1079": {
+        "formar_id": 1086,
+        "name": "walter-crane"
+    },
+    "1084": {
+        "formar_id": 1091,
+        "name": "werner-peiner"
+    },
+    "1085": {
+        "formar_id": 1092,
+        "name": "wilhelm-kotarbinski"
+    },
+    "1086": {
+        "formar_id": 1093,
+        "name": "wilhelm-leibl"
+    },
+    "1087": {
+        "formar_id": 1094,
+        "name": "wilhelm-trubner"
+    },
+    "1088": {
+        "formar_id": 1095,
+        "name": "wilhelm-von-kaulbach"
+    },
+    "1089": {
+        "formar_id": 1096,
+        "name": "will-barnet"
+    },
+    "1091": {
+        "formar_id": 1098,
+        "name": "willem-de-kooning"
+    },
+    "1092": {
+        "formar_id": 1099,
+        "name": "willem-kalf"
+    },
+    "1093": {
+        "formar_id": 1100,
+        "name": "willi-baumeister"
+    },
+    "1094": {
+        "formar_id": 1101,
+        "name": "william-adolphe-bouguereau"
+    },
+    "1095": {
+        "formar_id": 1102,
+        "name": "william-baziotes"
+    },
+    "1096": {
+        "formar_id": 1103,
+        "name": "william-bradford"
+    },
+    "1097": {
+        "formar_id": 1104,
+        "name": "william-dobson"
+    },
+    "1098": {
+        "formar_id": 1105,
+        "name": "william-h-johnson"
+    },
+    "1099": {
+        "formar_id": 1106,
+        "name": "william-henry-hunt"
+    },
+    "1103": {
+        "formar_id": 1110,
+        "name": "william-merritt-chase"
+    },
+    "1104": {
+        "formar_id": 1111,
+        "name": "william-michael-harnett"
+    },
+    "1107": {
+        "formar_id": 1114,
+        "name": "winifred-nicholson"
+    },
+    "1108": {
+        "formar_id": 1115,
+        "name": "winslow-homer"
+    },
+    "1109": {
+        "formar_id": 1116,
+        "name": "wojciech-weiss"
+    },
+    "1110": {
+        "formar_id": 1117,
+        "name": "wolfgang-laib"
+    },
+    "1111": {
+        "formar_id": 1118,
+        "name": "wyndham-lewis"
+    },
+    "1112": {
+        "formar_id": 1119,
+        "name": "yasuo-kuniyoshi"
+    },
+    "1113": {
+        "formar_id": 1120,
+        "name": "yeghishe-tadevosyan"
+    },
+    "1115": {
+        "formar_id": 1122,
+        "name": "yulia-mamontova"
+    },
+    "1118": {
+        "formar_id": 1125,
+        "name": "zakar-zakarian"
+    },
+    "1119": {
+        "formar_id": 1126,
+        "name": "zdzislaw-beksinski"
+    },
+    "1120": {
+        "formar_id": 1127,
+        "name": "zinaida-serebriakova"
+    }
+}
