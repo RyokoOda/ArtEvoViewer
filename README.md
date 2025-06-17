@@ -17,7 +17,8 @@ This is a system for visualizing the influence relationships between Western art
    $ conda create -n ArtEvoViewer python==3.11
    $ conda activate ArtEvoViewer
    ```
-4. Install requirement.txt
+4. Install requirement.txt <br>
+   **Please make sure that the version of Dash Cytoscape is 0.2.0.**
    ```
    $ pip install -r requirements.txt
    ```
