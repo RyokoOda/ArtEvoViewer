@@ -214,7 +214,7 @@ def register_callbacks(app, picture_dict, default_elements):
         Input('elements-store', 'data')
     )
     def update_graph_elements(elements):
-        return elements
+        return copy.deepcopy(elements)
 
     @app.callback(
         Output('graph', 'layout'),
