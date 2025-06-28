@@ -35,8 +35,9 @@ css = stylesheet.CSSSTYLES
 
 ### ドロップボックスの選択肢の設定
 DIRECTORIS = [{'label': 'color', 'value': 'color_only'},
-              {'label': 'local_feature_1000', 'value': 'local_feature_for_top50_1000'},
-              {'label': 'local_feature_1300', 'value': 'local_feature_for_top1_1300'},]
+              {'label': 'brushstroke', 'value': 'local_feature_for_top50_1000'},
+              # {'label': 'local_feature_1300', 'value': 'local_feature_for_top1_1300'},
+              ]
 
 VISUALIZATION_METHODS = [{'label': 'HierarchyTree', 'value': 'HierarchyTree'},
                          {'label': 'HierarchyTreeYear', 'value': 'HierarchyTreeYear'},
@@ -70,7 +71,7 @@ app.layout = html.Div(style=css['app'],children=[
         # ドロップダウンメニュー（ディレクトリと手法の選択）
         html.Div([
             # Directory選択
-            html.Div([html.Label("Directory:"),
+            html.Div([html.Label("Features:"),
                 dcc.Dropdown(id='directory-dropdown', options=DIRECTORIS, value='color_only')],
                 style=css['directory-dropdown']),
             # Visualization Method選択
