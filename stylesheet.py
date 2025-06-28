@@ -121,6 +121,10 @@ my_stylesheet = [
             'opacity':'data(display)', # ノードを表示するかどうか
             'width': 'data(highlight)', # ノードの大きさ
             'height': 'data(highlight)',
+            'border-width': 2,            # 縁の太さ（px）
+            'border-color': 'gray',       # 縁の色
+            'border-opacity': 1,          # 不透明度（0〜1）
+            'border-style': 'solid',      # 線種（solid, dotted, dashed…）
         }
     }
 ]
