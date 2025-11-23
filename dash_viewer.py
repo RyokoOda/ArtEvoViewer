@@ -17,6 +17,13 @@ n_and_e.make_nodes_and_edges() # nodesとedgesの作成
 nodes, edges = n_and_e.nodes, n_and_e.edges
 
 # 初期状態
+INITIAL_THRESHOLD = 0.2
+
+for e in edges:
+    w = float(e['data'].get('weight', 0))
+    # しきい値以上だけ visible=True にして、それ以外は False
+    e['data']['visible'] = "True" if w >= INITIAL_THRESHOLD else "False"
+    
 DEFAULT_ELEMENTS = nodes + edges
 
 ### 画家の名前と画像のファイル名の対応をとったデータを読み込む
@@ -36,12 +43,16 @@ css = stylesheet.CSSSTYLES
 ### ドロップボックスの選択肢の設定
 DIRECTORIS = [{'label': 'color', 'value': 'color_only'},
               {'label': 'brushstroke', 'value': 'local_feature_for_top50_1000'},
-              # {'label': 'local_feature_1300', 'value': 'local_feature_for_top1_1300'},
+              {'label': 'theme', 'value': 'clip'},
+              {'label': 'color+brushstroke', 'value': 'color_local'},
+              {'label': 'color+theme', 'value': 'color_clip'},
+              {'label': 'brushstroke+theme', 'value': 'local_clip'},
+              {'label': 'color+brushstroke+theme', 'value': 'color_local_clip'},
               ]
 
 VISUALIZATION_METHODS = [{'label': 'HierarchyTree', 'value': 'HierarchyTree'},
                          {'label': 'HierarchyTreeYear', 'value': 'HierarchyTreeYear'},
-                         {'label': 'Koala', 'value': 'Koala'},
+                         #{'label': 'Koala', 'value': 'Koala'},
                          {'label': 'RadialTree', 'value': 'RadialTree'}
                          ]
 
@@ -96,6 +107,22 @@ app.layout = html.Div(style=css['app'],children=[
                 ]),
             ]),
         ],style=css['dropdown-menu']),
+        
+        # エッジの制御をするスライドバー
+        html.Div([
+            html.Div([html.Label("Edge:")], style=css['slider-label']),
+            html.Div([
+                dcc.Slider(
+                    id='weight-slider',
+                    min=0.0, max=0.3, step=0.01, value=0.2, updatemode='drag',
+                    marks={
+                        0:  {'label': 'More'},   # 左端 0.0
+                        0.3:  {'label': 'Fewer'},  # 右端 max
+                    },
+                )],
+                id='weight-slider-output',
+                style=css['slider']),
+        ],style=css['slide-bar']),   
 
         # グラフ本体
         cyto.Cytoscape(

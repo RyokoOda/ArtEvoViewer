@@ -187,11 +187,16 @@ def register_callbacks(app, picture_dict, default_elements):
     # 可視化手法の切り替え
     @app.callback(
         Output('elements-store', 'data', allow_duplicate=True),
-        [Input('directory-dropdown', 'value'), Input('method-dropdown', 'value'), Input('coloring-dropdown', 'value')],
+        [Input('directory-dropdown', 'value'), Input('method-dropdown', 'value'), Input('coloring-dropdown', 'value'), Input('weight-slider', 'value')],
         prevent_initial_call=True
         )
-    def update_elements_store(selected_network, selected_method, selected_coloring):
+    def update_elements_store(selected_network, selected_method, selected_coloring, weight):
         updated_nodes, updated_edges = get_cached_elements(selected_directory, selected_network, selected_method, selected_coloring)
+        for e in updated_edges:
+            if float(e['data'].get('weight', 0)) >= weight:
+                e['data']['display'] = "True"
+            else:
+                e['data']['display'] = "False"
         return updated_nodes + updated_edges
 
     # ネットワークリセット
@@ -540,3 +545,25 @@ def register_callbacks(app, picture_dict, default_elements):
     def update_colorbar(selected_coloring):
         # generate_colorbar() はカラーリングに応じた画像を返すと仮定
         return generate_colorbar(selected_coloring)
+    
+    ### エッジを重みでフィルター
+    @app.callback(
+        Output('elements-store', 'data'),
+        Input('weight-slider', 'value'),
+        State('elements-store', 'data')
+    )
+    def filter_edges_by_weight(threshold, elements):
+
+        # nodes と edges を分ける
+        nodes = [el for el in elements if 'source' not in el.get('data', {})]
+        edges = [el for el in elements if 'source' in el.get('data', {})]
+
+        # weight のある edges のみフィルタ
+        for e in edges:
+            if float(e['data'].get('weight', 0)) >= threshold:
+                e['data']['display'] = "True"
+            else:
+                e['data']['display'] = "False"
+
+        new_elements = nodes + edges
+        return new_elements

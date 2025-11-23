@@ -1,116 +1,5 @@
 # dash cytoscape用のスタイルシート
 
-STYLESHEET = [
-    # Group selectors
-    #{
-    #    'selector': 'node',
-    #    'style': {
-    #        'content': 'data(label)'
-    #    }
-    #},
-
-    # Class selectors
-    {
-        'selector': '.violet',
-        'style': {
-            'background-color': 'darkviolet',
-            'line-color': 'darkviolet'
-        }
-    },
-    {
-        'selector': '.blue',
-        'style': {
-            'background-color': 'blue',
-            'line-color': 'blue'
-        }
-    },
-    {
-        'selector': '.light_blue',
-        'style': {
-            'background-color': 'deepskyblue',
-            'line-color': 'deepskyblue'
-        }
-    },
-    {
-        'selector': '.emerald',
-        'style': {
-            'background-color': 'darkcyan',
-            'line-color': 'darkcyan'
-        }
-    },
-    {
-        'selector': '.green',
-        'style': {
-            'background-color': 'green',
-            'line-color': 'green'
-        }
-    },
-    {
-        'selector': '.light_green',
-        'style': {
-            'background-color': 'lawngreen',
-            'line-color': 'lawngreen'
-        }
-    },
-    {
-        'selector': '.yellow',
-        'style': {
-            'background-color': 'yellow',
-            'line-color': 'yellow'
-        }
-    },
-    {
-        'selector': '.orange',
-        'style': {
-            'background-color': 'orange',
-            'line-color': 'orange'
-        }
-    },
-    {
-        'selector': '.red',
-        'style': {
-            'background-color': 'red',
-            'line-color': 'red'
-        }
-    },
-    {
-        'selector': '.purple',
-        'style': {
-            'background-color': 'mediumvioletred',
-            'line-color': 'mediumvioletred'
-        }
-    },
-    {
-        'selector': '.pink',
-        'style': {
-            'background-color': 'magenta',
-            'line-color': 'magenta'
-        }
-    },
-    {
-        'selector': '.gray',
-        'style': {
-            'background-color': 'gray',
-            'line-color': 'gray'
-        }
-    },
-    {
-    'selector': '.highlighted',
-    'style': {
-        'background-color': 'red',  # 背景色を赤にする
-        'line-color': '#FF4136',    # エッジの色
-        'width': '50px',            # ノードの幅を大きくする
-        'height': '50px',           # ノードの高さを大きくする
-        'border-width': '5px',      # 境界線の太さを増やす
-        'border-color': '#FF4136',  # 境界線の色
-        'fontSize': '20px',        # ラベルのフォントサイズを大きくする
-        'color': '#FFFFFF',         # ラベルの色を白にする
-        'text-valign': 'center',    # テキストをノードの中央に配置する
-        'text-halign': 'center'     # テキストをノードの中央に配置する
-    }
-}
-]
-
 my_stylesheet = [
     {
         'selector': 'node',
@@ -126,7 +15,13 @@ my_stylesheet = [
             'border-opacity': 1,          # 不透明度（0〜1）
             'border-style': 'solid',      # 線種（solid, dotted, dashed…）
         }
-    }
+    },
+    {
+        'selector': 'edge[display = "False"]',
+        'style': {
+            'display': 'none'
+        }
+    },
 ]
 
 CSSSTYLES = {
@@ -162,7 +57,7 @@ CSSSTYLES = {
         'boxShadow': 'none',           # 影を消去
     },
     'viewer': {
-        'height': '520px',
+        'height': '480px',
         'width': '90%',
         'background': '#F0F0F0',
         #'background': '#FAFAF0',
@@ -359,6 +254,20 @@ CSSSTYLES = {
     'dropdown-top':{
         'display': 'flex',
         'flexDirection': 'row',
+    },
+    'slide-bar':{
+        'display': 'flex',
+        'width': '95%',
+        'height': '40px',
+        'background':'#F0F0F0',
+    },
+    'slider-label':{
+        'width': '10%',
+        'paddingLeft': '3%',
+    },
+    'slider':{
+        'width': '100%',
+        'height': '40px',
     },
 
 }

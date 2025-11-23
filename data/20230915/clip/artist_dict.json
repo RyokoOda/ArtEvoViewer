@@ -735,7 +735,7 @@
             "id": "50",
             "label": "aelbert-cuyp 1651"
         },
-        "year": 1651
+        "year": 1650
     },
     {
         "artist_name": "agnes-lawrence-pelton",
@@ -781,6 +781,48 @@
             "label": "agnes-lawrence-pelton None"
         },
         "year": 1930
+    },
+    {
+        "artist_name": "agnes-martin",
+        "born": {
+            "date": "March 22, 1912",
+            "year": 1912,
+            "place": "Macklin, Canada"
+        },
+        "died": {
+            "date": "December 16, 2004",
+            "year": 2004,
+            "place": "United States"
+        },
+        "active_years": {
+            "start": 1957,
+            "end": 2004
+        },
+        "nationality": [
+            "canadian",
+            "american"
+        ],
+        "artstyle": [
+            "minimalism"
+        ],
+        "painting_school": null,
+        "genre": [
+            "abstract"
+        ],
+        "field": [
+            "painting"
+        ],
+        "influenced_by": null,
+        "influenced_on": null,
+        "teachers": null,
+        "pupils": null,
+        "friends_and_coworkers": null,
+        "wikipedia": "https://en.wikipedia.org/wiki/Agnes_Martin\n",
+        "data": {
+            "id": "56",
+            "label": "agnes-martin 1980"
+        },
+        "year": 1963
     },
     {
         "artist_name": "agnolo-bronzino",
@@ -1252,7 +1294,7 @@
             "id": "90",
             "label": "albert-maignan 1887"
         },
-        "year": 1887
+        "year": 1875
     },
     {
         "artist_name": "albert-marquet",
@@ -1295,7 +1337,7 @@
             "id": "91",
             "label": "albert-marquet 1919"
         },
-        "year": 1919
+        "year": 1906
     },
     {
         "artist_name": "albert-pinkham-ryder",
@@ -1380,6 +1422,53 @@
             "label": "albert-tucker None"
         },
         "year": 1943
+    },
+    {
+        "artist_name": "alberto-burri",
+        "born": {
+            "date": "March 12, 1915",
+            "year": 1915,
+            "place": "Citt\u00e0 di Castello, Italy"
+        },
+        "died": {
+            "date": "February 15, 1995",
+            "year": 1995,
+            "place": "Nice, France"
+        },
+        "active_years": {
+            "start": null,
+            "end": null
+        },
+        "nationality": [
+            "italian"
+        ],
+        "artstyle": [
+            "art-informel",
+            "spatialism",
+            "arte-povera"
+        ],
+        "painting_school": [
+            "gruppo-origine"
+        ],
+        "genre": null,
+        "field": [
+            "painting",
+            "sculpture",
+            "installation"
+        ],
+        "influenced_by": null,
+        "influenced_on": [
+            "turi-simeti"
+        ],
+        "teachers": null,
+        "pupils": null,
+        "friends_and_coworkers": null,
+        "wikipedia": "https://en.wikipedia.org/wiki/Alberto_Burri\n",
+        "data": {
+            "id": "98",
+            "label": "alberto-burri None"
+        },
+        "year": 1953
     },
     {
         "artist_name": "albin-egger-lienz",
@@ -1577,7 +1666,7 @@
             "id": "116",
             "label": "alejandro-cabeza 2000"
         },
-        "year": 2000
+        "year": 1984
     },
     {
         "artist_name": "aleksander-gierymski",
@@ -2079,7 +2168,7 @@
             "id": "136",
             "label": "alexander-clarot 1831"
         },
-        "year": 1831
+        "year": 1832
     },
     {
         "artist_name": "alexander-ivanov",
@@ -2255,7 +2344,7 @@
             "id": "146",
             "label": "alexandre-antigna 1857"
         },
-        "year": 1857
+        "year": 1848
     },
     {
         "artist_name": "alexandre-benois",
@@ -2443,7 +2532,7 @@
             "id": "154",
             "label": "alexei-harlamoff 1889"
         },
-        "year": 1889
+        "year": 1872
     },
     {
         "artist_name": "alexej-von-jawlensky",
@@ -2666,7 +2755,7 @@
             "id": "162",
             "label": "alfred-dehodencq 1859"
         },
-        "year": 1859
+        "year": 1845
     },
     {
         "artist_name": "alfred-freddy-krupa",
@@ -3172,7 +3261,7 @@
             "id": "205",
             "label": "alphonse-mucha 1903"
         },
-        "year": 1903
+        "year": 1894
     },
     {
         "artist_name": "amadeo-de-souza-cardoso",
@@ -3328,7 +3417,7 @@
             "id": "213",
             "label": "amedeo-modigliani 1909"
         },
-        "year": 1909
+        "year": 1899
     },
     {
         "artist_name": "anatoli-papian",
@@ -3931,7 +4020,7 @@
             "id": "257",
             "label": "anima-ehtiat 2011"
         },
-        "year": 2011
+        "year": 2010
     },
     {
         "artist_name": "anna-ancher",
@@ -4228,7 +4317,7 @@
             "id": "277",
             "label": "anthony-van-dyck 1629"
         },
-        "year": 1629
+        "year": 1617
     },
     {
         "artist_name": "antoine-jean-gros",
@@ -4319,7 +4408,7 @@
             "id": "280",
             "label": "antoine-pesne 1732"
         },
-        "year": 1732
+        "year": 1710
     },
     {
         "artist_name": "antoine-watteau",
@@ -4366,7 +4455,7 @@
             "id": "281",
             "label": "antoine-watteau 1714"
         },
-        "year": 1714
+        "year": 1708
     },
     {
         "artist_name": "anton-mauve",
@@ -4643,7 +4732,7 @@
             "id": "290",
             "label": "antonello-da-messina 1467"
         },
-        "year": 1467
+        "year": 1455
     },
     {
         "artist_name": "antonio-de-la-gandara",
@@ -4741,7 +4830,7 @@
             "id": "307",
             "label": "antonio-del-pollaiolo 1474"
         },
-        "year": 1474
+        "year": 1460
     },
     {
         "artist_name": "antonio-lopez",
@@ -4987,7 +5076,7 @@
             "id": "322",
             "label": "archibald-motley 1949"
         },
-        "year": 1949
+        "year": 1919
     },
     {
         "artist_name": "aristarkh-lentulov",
@@ -5226,7 +5315,7 @@
             "id": "342",
             "label": "arshile-gorky 1935"
         },
-        "year": 1935
+        "year": 1924
     },
     {
         "artist_name": "artemisia-gentileschi",
@@ -5274,7 +5363,7 @@
             "id": "344",
             "label": "artemisia-gentileschi 1633"
         },
-        "year": 1633
+        "year": 1610
     },
     {
         "artist_name": "arthur-dove",
@@ -5321,7 +5410,7 @@
             "id": "346",
             "label": "arthur-dove 1924"
         },
-        "year": 1924
+        "year": 1935
     },
     {
         "artist_name": "arthur-hughes",
@@ -5451,7 +5540,7 @@
             "id": "349",
             "label": "arthur-lowe 1914"
         },
-        "year": 1914
+        "year": 1916
     },
     {
         "artist_name": "arthur-pan",
@@ -5978,7 +6067,7 @@
             "id": "374",
             "label": "august-von-pettenkofen 1864"
         },
-        "year": 1864
+        "year": 1840
     },
     {
         "artist_name": "auguste-toulmouche",
@@ -6064,7 +6153,7 @@
             "id": "380",
             "label": "augustus-edwin-mulready 1883"
         },
-        "year": 1883
+        "year": 1864
     },
     {
         "artist_name": "augustus-john",
@@ -6281,7 +6370,7 @@
             "id": "399",
             "label": "balthus 1963"
         },
-        "year": 1963
+        "year": 1933
     },
     {
         "artist_name": "barbara-longhi",
@@ -6416,7 +6505,7 @@
             "id": "410",
             "label": "bartholomaus-spranger 1587"
         },
-        "year": 1587
+        "year": 1585
     },
     {
         "artist_name": "bartolome-bermejo",
@@ -6591,7 +6680,7 @@
             "id": "428",
             "label": "ben-nicholson 1945"
         },
-        "year": 1945
+        "year": 1956
     },
     {
         "artist_name": "benjamin-west",
@@ -6639,7 +6728,7 @@
             "id": "436",
             "label": "benjamin-west 1787"
         },
-        "year": 1787
+        "year": 1756
     },
     {
         "artist_name": "benny-andrews",
@@ -6681,7 +6770,7 @@
             "id": "437",
             "label": "benny-andrews 1984"
         },
-        "year": 1984
+        "year": 1961
     },
     {
         "artist_name": "benozzo-gozzoli",
@@ -6770,7 +6859,7 @@
             "id": "447",
             "label": "bernard-van-orley 1527"
         },
-        "year": 1527
+        "year": 1520
     },
     {
         "artist_name": "bernardino-luini",
@@ -6814,7 +6903,7 @@
             "id": "448",
             "label": "bernardino-luini 1519"
         },
-        "year": 1519
+        "year": 1520
     },
     {
         "artist_name": "bernardo-bellotto",
@@ -7523,7 +7612,7 @@
             "id": "518",
             "label": "canaletto 1742"
         },
-        "year": 1742
+        "year": 1719
     },
     {
         "artist_name": "candido-portinari",
@@ -7626,7 +7715,7 @@
             "id": "520",
             "label": "caravaggio 1601"
         },
-        "year": 1601
+        "year": 1593
     },
     {
         "artist_name": "carel-fabritius",
@@ -9234,7 +9323,7 @@
             "id": "621",
             "label": "christen-kobke 1838"
         },
-        "year": 1838
+        "year": 1832
     },
     {
         "artist_name": "christian-schad",
@@ -9490,7 +9579,7 @@
             "id": "643",
             "label": "cimabue 1282"
         },
-        "year": 1282
+        "year": 1270
     },
     {
         "artist_name": "clara-peeters",
@@ -9639,7 +9728,7 @@
             "id": "657",
             "label": "claude-lorrain 1656"
         },
-        "year": 1656
+        "year": 1630
     },
     {
         "artist_name": "claude-monet",
@@ -10055,7 +10144,7 @@
             "id": "696",
             "label": "corrado-zani 2002"
         },
-        "year": 2002
+        "year": 2015
     },
     {
         "artist_name": "correggio",
@@ -10102,7 +10191,7 @@
             "id": "697",
             "label": "correggio 1522"
         },
-        "year": 1522
+        "year": 1514
     },
     {
         "artist_name": "cristiano-tassinari",
@@ -10204,7 +10293,7 @@
             "id": "706",
             "label": "cy-twombly 1979"
         },
-        "year": 1979
+        "year": 1963
     },
     {
         "artist_name": "dan-witz",
@@ -10633,7 +10722,7 @@
             "id": "739",
             "label": "david-burliuk 1933"
         },
-        "year": 1933
+        "year": 1900
     },
     {
         "artist_name": "david-kakabadze",
@@ -10682,7 +10771,7 @@
             "id": "748",
             "label": "david-kakabadze 1930"
         },
-        "year": 1930
+        "year": 1920
     },
     {
         "artist_name": "david-teniers-the-younger",
@@ -10892,7 +10981,7 @@
             "id": "775",
             "label": "diego-velazquez 1638"
         },
-        "year": 1638
+        "year": 1616
     },
     {
         "artist_name": "dirck-van-baburen",
@@ -11246,7 +11335,7 @@
             "id": "795",
             "label": "domenico-induno 1854"
         },
-        "year": 1854
+        "year": 1839
     },
     {
         "artist_name": "domenico-veneziano",
@@ -11848,7 +11937,7 @@
             "id": "840",
             "label": "edouard-manet 1866"
         },
-        "year": 1866
+        "year": 1854
     },
     {
         "artist_name": "edouard-vuillard",
@@ -12680,7 +12769,7 @@
             "id": "879",
             "label": "el-greco 1588"
         },
-        "year": 1588
+        "year": 1560
     },
     {
         "artist_name": "el-lissitzky",
@@ -13188,7 +13277,7 @@
             "id": "905",
             "label": "emile-claus 1895"
         },
-        "year": 1895
+        "year": 1885
     },
     {
         "artist_name": "emiliano-di-cavalcanti",
@@ -13273,7 +13362,7 @@
             "id": "922",
             "label": "endre-rozsda 1965"
         },
-        "year": 1965
+        "year": 1933
     },
     {
         "artist_name": "enrico-nardi",
@@ -13316,7 +13405,7 @@
             "id": "927",
             "label": "enrico-nardi 1900"
         },
-        "year": 1900
+        "year": 1893
     },
     {
         "artist_name": "enrique-martinez-celaya",
@@ -13719,7 +13808,7 @@
             "id": "945",
             "label": "ernest-meissonier 1860"
         },
-        "year": 1860
+        "year": 1849
     },
     {
         "artist_name": "ernst-fuchs",
@@ -13988,7 +14077,7 @@
             "id": "963",
             "label": "ettore-tito 1908"
         },
-        "year": 1908
+        "year": 1881
     },
     {
         "artist_name": "eugene-boudin",
@@ -14615,7 +14704,7 @@
             "id": "1007",
             "label": "ferdinand-hodler 1892"
         },
-        "year": 1892
+        "year": 1871
     },
     {
         "artist_name": "fernand-khnopff",
@@ -14738,7 +14827,7 @@
             "id": "1014",
             "label": "fernand-leger 1927"
         },
-        "year": 1927
+        "year": 1910
     },
     {
         "artist_name": "fernando-botero",
@@ -15012,7 +15101,7 @@
             "id": "1036",
             "label": "fra-bartolomeo 1500"
         },
-        "year": 1500
+        "year": 1498
     },
     {
         "artist_name": "francesco-beda",
@@ -15347,7 +15436,7 @@
             "id": "1054",
             "label": "francis-bacon 1961"
         },
-        "year": 1961
+        "year": 1944
     },
     {
         "artist_name": "francis-picabia",
@@ -15441,7 +15530,7 @@
             "id": "1062",
             "label": "francisco-de-zurbaran 1644"
         },
-        "year": 1644
+        "year": 1627
     },
     {
         "artist_name": "francisco-goya",
@@ -15499,7 +15588,7 @@
             "id": "1063",
             "label": "francisco-goya 1799"
         },
-        "year": 1799
+        "year": 1771
     },
     {
         "artist_name": "francois-boucher",
@@ -15546,7 +15635,7 @@
             "id": "1071",
             "label": "francois-boucher 1745"
         },
-        "year": 1745
+        "year": 1734
     },
     {
         "artist_name": "francois-gerard",
@@ -15592,7 +15681,7 @@
             "id": "1072",
             "label": "francois-gerard 1810"
         },
-        "year": 1810
+        "year": 1782
     },
     {
         "artist_name": "frank-auerbach",
@@ -16003,7 +16092,7 @@
             "id": "1094",
             "label": "frans-hals 1638"
         },
-        "year": 1638
+        "year": 1611
     },
     {
         "artist_name": "frans-snyders",
@@ -16052,7 +16141,7 @@
             "id": "1095",
             "label": "frans-snyders 1628"
         },
-        "year": 1628
+        "year": 1600
     },
     {
         "artist_name": "frans-van-mieris-the-elder",
@@ -16569,7 +16658,7 @@
             "id": "1115",
             "label": "frederick-carl-frieseke 1918"
         },
-        "year": 1918
+        "year": 1902
     },
     {
         "artist_name": "frederick-mccubbin",
@@ -16852,7 +16941,7 @@
             "id": "1134",
             "label": "fujishima-takeji 1911"
         },
-        "year": 1911
+        "year": 1890
     },
     {
         "artist_name": "fyodor-alekseyev",
@@ -18079,7 +18168,7 @@
             "id": "1195",
             "label": "george-stefanescu 1971"
         },
-        "year": 1971
+        "year": 1936
     },
     {
         "artist_name": "george-stubbs",
@@ -18175,7 +18264,7 @@
             "id": "1199",
             "label": "georges-braque 1931"
         },
-        "year": 1931
+        "year": 1900
     },
     {
         "artist_name": "georges-de-la-tour",
@@ -18581,7 +18670,7 @@
             "id": "1216",
             "label": "georgina-de-albuquerque 1927"
         },
-        "year": 1927
+        "year": 1922
     },
     {
         "artist_name": "georgy-yakulov",
@@ -18706,7 +18795,7 @@
             "id": "1223",
             "label": "gerard-sekoto 1963"
         },
-        "year": 1963
+        "year": 1947
     },
     {
         "artist_name": "gerard-terborch",
@@ -18913,7 +19002,7 @@
             "id": "1231",
             "label": "gerolamo-induno 1867"
         },
-        "year": 1867
+        "year": 1848
     },
     {
         "artist_name": "gerrit-dou",
@@ -19007,7 +19096,7 @@
             "id": "1237",
             "label": "gevorg-bashindzhagian 1901"
         },
-        "year": 1901
+        "year": 1884
     },
     {
         "artist_name": "giacomo-balla",
@@ -19100,7 +19189,7 @@
             "id": "1247",
             "label": "gian-lorenzo-bernini 1643"
         },
-        "year": 1643
+        "year": 1623
     },
     {
         "artist_name": "gilbert-stuart",
@@ -19257,7 +19346,7 @@
             "id": "1261",
             "label": "giorgio-de-chirico 1943"
         },
-        "year": 1943
+        "year": 1908
     },
     {
         "artist_name": "giorgio-morandi",
@@ -19598,7 +19687,7 @@
             "id": "1272",
             "label": "giovanni-battista-tiepolo 1743"
         },
-        "year": 1743
+        "year": 1717
     },
     {
         "artist_name": "giovanni-battista-torriglia",
@@ -19693,7 +19782,7 @@
             "id": "1274",
             "label": "giovanni-bellini 1483"
         },
-        "year": 1483
+        "year": 1455
     },
     {
         "artist_name": "giovanni-boldini",
@@ -19744,7 +19833,7 @@
             "id": "1275",
             "label": "giovanni-boldini 1893"
         },
-        "year": 1893
+        "year": 1856
     },
     {
         "artist_name": "giovanni-costa",
@@ -19833,7 +19922,7 @@
             "id": "1279",
             "label": "giovanni-domenico-tiepolo 1774"
         },
-        "year": 1774
+        "year": 1751
     },
     {
         "artist_name": "giovanni-fattori",
@@ -19920,7 +20009,7 @@
             "id": "1282",
             "label": "giovanni-segantini 1887"
         },
-        "year": 1887
+        "year": 1879
     },
     {
         "artist_name": "giulio-romano",
@@ -20214,7 +20303,7 @@
             "id": "1316",
             "label": "grace-cossington-smith 1939"
         },
-        "year": 1939
+        "year": 1915
     },
     {
         "artist_name": "graham-sutherland",
@@ -20301,7 +20390,7 @@
             "id": "1320",
             "label": "grandma-moses 1948"
         },
-        "year": 1948
+        "year": 1940
     },
     {
         "artist_name": "grant-wood",
@@ -20593,7 +20682,7 @@
             "id": "1349",
             "label": "guntis-strupulis 1963"
         },
-        "year": 1963
+        "year": 1968
     },
     {
         "artist_name": "gustav-klimt",
@@ -20812,7 +20901,7 @@
             "id": "1360",
             "label": "gustave-courbet 1857"
         },
-        "year": 1857
+        "year": 1830
     },
     {
         "artist_name": "gustave-dore",
@@ -21747,7 +21836,7 @@
             "id": "1425",
             "label": "heinrich-reinhold 1821"
         },
-        "year": 1821
+        "year": 1820
     },
     {
         "artist_name": "helen-frankenthaler",
@@ -21805,7 +21894,7 @@
             "id": "1430",
             "label": "helen-frankenthaler 1980"
         },
-        "year": 1980
+        "year": 1951
     },
     {
         "artist_name": "helio-oiticica",
@@ -21944,7 +22033,7 @@
             "id": "1441",
             "label": "hendrick-goltzius 1598"
         },
-        "year": 1598
+        "year": 1595
     },
     {
         "artist_name": "hendrick-terbrugghen",
@@ -22304,7 +22393,7 @@
             "id": "1455",
             "label": "henri-matisse 1922"
         },
-        "year": 1922
+        "year": 1890
     },
     {
         "artist_name": "henri-regnault",
@@ -22397,7 +22486,7 @@
             "id": "1460",
             "label": "henri-rousseau 1892"
         },
-        "year": 1892
+        "year": 1877
     },
     {
         "artist_name": "henry-fuseli",
@@ -22481,7 +22570,7 @@
             "id": "1465",
             "label": "henry-herbert-la-thangue 1904"
         },
-        "year": 1904
+        "year": 1901
     },
     {
         "artist_name": "henry-moore-ra",
@@ -22786,7 +22875,7 @@
             "id": "1483",
             "label": "hercules-seghers 1629"
         },
-        "year": 1629
+        "year": 1625
     },
     {
         "artist_name": "hermann-david-salomon-corrodi",
@@ -22921,7 +23010,7 @@
             "id": "1491",
             "label": "hieronymus-bosch 1498"
         },
-        "year": 1498
+        "year": 1480
     },
     {
         "artist_name": "hilma-af-klint",
@@ -23012,7 +23101,7 @@
             "id": "1506",
             "label": "honore-daumier 1854"
         },
-        "year": 1854
+        "year": 1845
     },
     {
         "artist_name": "horace-pippin",
@@ -23231,6 +23320,49 @@
         "year": 1989
     },
     {
+        "artist_name": "howard-mehring",
+        "born": {
+            "date": "1931",
+            "year": 1931,
+            "place": "Washington, D.C., United States"
+        },
+        "died": {
+            "date": "1978 \n",
+            "year": 1978,
+            "place": null
+        },
+        "active_years": {
+            "start": null,
+            "end": null
+        },
+        "nationality": [
+            "american"
+        ],
+        "artstyle": [
+            "post-painterly-abstraction"
+        ],
+        "painting_school": [
+            "washington-color-school"
+        ],
+        "genre": [
+            "abstract"
+        ],
+        "field": [
+            "painting"
+        ],
+        "influenced_by": null,
+        "influenced_on": null,
+        "teachers": null,
+        "pupils": null,
+        "friends_and_coworkers": null,
+        "wikipedia": "https://en.wikipedia.org/wiki/Howard_Mehring\n",
+        "data": {
+            "id": "1521",
+            "label": "howard-mehring None"
+        },
+        "year": 1964
+    },
+    {
         "artist_name": "hryhorii-havrylenko",
         "born": {
             "date": "July 7, 1927",
@@ -23324,7 +23456,7 @@
             "id": "1528",
             "label": "hubertine-heijermans 1987"
         },
-        "year": 1987
+        "year": 1959
     },
     {
         "artist_name": "hugo-muhlig",
@@ -23776,7 +23908,7 @@
             "id": "1573",
             "label": "isaac-israels 1907"
         },
-        "year": 1907
+        "year": 1884
     },
     {
         "artist_name": "isaac-levitan",
@@ -23958,7 +24090,7 @@
             "id": "1586",
             "label": "ivan-aivazovsky 1867"
         },
-        "year": 1867
+        "year": 1835
     },
     {
         "artist_name": "ivan-albright",
@@ -24174,7 +24306,7 @@
             "id": "1592",
             "label": "ivan-kramskoy 1873"
         },
-        "year": 1873
+        "year": 1863
     },
     {
         "artist_name": "ivan-nikitin",
@@ -24514,7 +24646,7 @@
             "id": "1614",
             "label": "jackson-pollock 1943"
         },
-        "year": 1943
+        "year": 1935
     },
     {
         "artist_name": "jacob-jordaens",
@@ -25955,7 +26087,7 @@
             "id": "1683",
             "label": "jan-van-eyck 1430"
         },
-        "year": 1430
+        "year": 1426
     },
     {
         "artist_name": "jan-van-goyen",
@@ -26373,7 +26505,7 @@
             "id": "1709",
             "label": "jean-arp 1939"
         },
-        "year": 1939
+        "year": 1915
     },
     {
         "artist_name": "jean-auguste-dominique-ingres",
@@ -26430,7 +26562,7 @@
             "id": "1710",
             "label": "jean-auguste-dominique-ingres 1833"
         },
-        "year": 1833
+        "year": 1800
     },
     {
         "artist_name": "jean-baptiste-greuze",
@@ -26512,7 +26644,7 @@
             "id": "1713",
             "label": "jean-baptiste-oudry 1732"
         },
-        "year": 1732
+        "year": 1708
     },
     {
         "artist_name": "jean-baptiste-simeon-chardin",
@@ -26562,7 +26694,7 @@
             "id": "1715",
             "label": "jean-baptiste-simeon-chardin 1750"
         },
-        "year": 1750
+        "year": 1725
     },
     {
         "artist_name": "jean-baptiste-vanmour",
@@ -26654,7 +26786,7 @@
             "id": "1725",
             "label": "jean-dubuffet 1963"
         },
-        "year": 1963
+        "year": 1947
     },
     {
         "artist_name": "jean-etienne-liotard",
@@ -26897,7 +27029,7 @@
             "id": "1732",
             "label": "jean-francois-portaels 1867"
         },
-        "year": 1867
+        "year": 1842
     },
     {
         "artist_name": "jean-helion",
@@ -27029,7 +27161,7 @@
             "id": "1735",
             "label": "jean-honore-fragonard 1774"
         },
-        "year": 1774
+        "year": 1750
     },
     {
         "artist_name": "jean-jansem",
@@ -27223,7 +27355,7 @@
             "id": "1743",
             "label": "jean-marc-nattier 1736"
         },
-        "year": 1736
+        "year": 1717
     },
     {
         "artist_name": "jean-metzinger",
@@ -27502,6 +27634,46 @@
         "year": 1965
     },
     {
+        "artist_name": "jo-baer",
+        "born": {
+            "date": "August 7, 1929",
+            "year": 1929,
+            "place": "Seattle, Washington, United States"
+        },
+        "died": {
+            "date": null,
+            "year": null,
+            "place": null
+        },
+        "active_years": {
+            "start": null,
+            "end": null
+        },
+        "nationality": [
+            "american",
+            "jewish"
+        ],
+        "artstyle": [
+            "minimalism"
+        ],
+        "painting_school": null,
+        "genre": null,
+        "field": [
+            "painting"
+        ],
+        "influenced_by": null,
+        "influenced_on": null,
+        "teachers": null,
+        "pupils": null,
+        "friends_and_coworkers": null,
+        "wikipedia": "https://en.wikipedia.org/wiki/Jo_Baer\n",
+        "data": {
+            "id": "1788",
+            "label": "jo-baer None"
+        },
+        "year": 1965
+    },
+    {
         "artist_name": "joachim-patinir",
         "born": {
             "date": "c.1480",
@@ -27549,7 +27721,7 @@
             "id": "1790",
             "label": "joachim-patinir 1519"
         },
-        "year": 1519
+        "year": 1515
     },
     {
         "artist_name": "joachim-wtewael",
@@ -27643,7 +27815,7 @@
             "id": "1796",
             "label": "joan-miro 1947"
         },
-        "year": 1947
+        "year": 1914
     },
     {
         "artist_name": "joan-mitchell",
@@ -27778,7 +27950,7 @@
             "id": "1807",
             "label": "joaquin-torres-garcia 1921"
         },
-        "year": 1921
+        "year": 1943
     },
     {
         "artist_name": "johan-christian-dahl",
@@ -28098,7 +28270,7 @@
             "id": "1824",
             "label": "johannes-vermeer 1664"
         },
-        "year": 1664
+        "year": 1654
     },
     {
         "artist_name": "john-altoon",
@@ -28140,7 +28312,7 @@
             "id": "1826",
             "label": "john-altoon 1959"
         },
-        "year": 1959
+        "year": 1962
     },
     {
         "artist_name": "john-atkinson-grimshaw",
@@ -28284,7 +28456,7 @@
             "id": "1838",
             "label": "john-constable 1818"
         },
-        "year": 1818
+        "year": 1802
     },
     {
         "artist_name": "john-currin",
@@ -29089,7 +29261,7 @@
             "id": "1882",
             "label": "john-singleton-copley 1783"
         },
-        "year": 1783
+        "year": 1754
     },
     {
         "artist_name": "john-steuart-curry",
@@ -29260,7 +29432,7 @@
             "id": "1890",
             "label": "john-william-waterhouse 1894"
         },
-        "year": 1894
+        "year": 1872
     },
     {
         "artist_name": "jorge-castillo",
@@ -29516,7 +29688,7 @@
             "id": "1916",
             "label": "jose-malhoa 1905"
         },
-        "year": 1905
+        "year": 1918
     },
     {
         "artist_name": "josef-albers",
@@ -29579,7 +29751,7 @@
             "id": "1921",
             "label": "josef-albers 1945"
         },
-        "year": 1945
+        "year": 1938
     },
     {
         "artist_name": "josef-capek",
@@ -29752,7 +29924,7 @@
             "id": "1927",
             "label": "joseph-anton-koch 1817"
         },
-        "year": 1817
+        "year": 1796
     },
     {
         "artist_name": "joseph-beuys",
@@ -30168,7 +30340,7 @@
             "id": "1947",
             "label": "joshua-reynolds 1765"
         },
-        "year": 1765
+        "year": 1746
     },
     {
         "artist_name": "jozef-chelmonski",
@@ -30352,7 +30524,7 @@
             "id": "1955",
             "label": "juan-bautista-maino 1628"
         },
-        "year": 1628
+        "year": 1614
     },
     {
         "artist_name": "juan-de-valdes-leal",
@@ -30445,7 +30617,7 @@
             "id": "1959",
             "label": "juan-gris 1919"
         },
-        "year": 1919
+        "year": 1911
     },
     {
         "artist_name": "juan-van-der-hamen",
@@ -30531,7 +30703,7 @@
             "id": "1961",
             "label": "judith-leyster 1642"
         },
-        "year": 1642
+        "year": 1629
     },
     {
         "artist_name": "jules-bastien-lepage",
@@ -30628,7 +30800,7 @@
             "id": "1966",
             "label": "jules-breton 1876"
         },
-        "year": 1876
+        "year": 1853
     },
     {
         "artist_name": "jules-joseph-lefebvre",
@@ -31206,7 +31378,7 @@
             "id": "2011",
             "label": "karel-appel 1975"
         },
-        "year": 1975
+        "year": 1949
     },
     {
         "artist_name": "karl-bryullov",
@@ -31623,7 +31795,7 @@
             "id": "2074",
             "label": "knud-baade 1853"
         },
-        "year": 1853
+        "year": 1828
     },
     {
         "artist_name": "koboyan-gregoire",
@@ -31888,7 +32060,7 @@
             "id": "2084",
             "label": "konstantin-ivanovich-gorbatov 1924"
         },
-        "year": 1924
+        "year": 1895
     },
     {
         "artist_name": "konstantin-korovin",
@@ -32303,7 +32475,7 @@
             "id": "2099",
             "label": "l-s-lowry 1941"
         },
-        "year": 1941
+        "year": 1927
     },
     {
         "artist_name": "lady-frieda-harris",
@@ -32344,7 +32516,7 @@
             "id": "2101",
             "label": "lady-frieda-harris 1942"
         },
-        "year": 1942
+        "year": 1943
     },
     {
         "artist_name": "lasar-segall",
@@ -32568,7 +32740,7 @@
             "id": "2120",
             "label": "lavinia-fontana 1586"
         },
-        "year": 1586
+        "year": 1578
     },
     {
         "artist_name": "lawren-harris",
@@ -32916,7 +33088,7 @@
             "id": "2147",
             "label": "leon-bonnat 1886"
         },
-        "year": 1886
+        "year": 1870
     },
     {
         "artist_name": "leon-kroll",
@@ -33069,7 +33241,7 @@
             "id": "2159",
             "label": "leonardo-da-vinci 1495"
         },
-        "year": 1495
+        "year": 1472
     },
     {
         "artist_name": "leonid-sejka",
@@ -33547,7 +33719,7 @@
             "id": "2220",
             "label": "louise-moillon 1652"
         },
-        "year": 1652
+        "year": 1630
     },
     {
         "artist_name": "lovis-corinth",
@@ -33590,7 +33762,7 @@
             "id": "2223",
             "label": "lovis-corinth 1905"
         },
-        "year": 1905
+        "year": 1908
     },
     {
         "artist_name": "lubo-kristek",
@@ -33815,7 +33987,7 @@
             "id": "2230",
             "label": "lucas-cranach-the-elder 1526"
         },
-        "year": 1526
+        "year": 1500
     },
     {
         "artist_name": "lucian-freud",
@@ -33875,7 +34047,7 @@
             "id": "2233",
             "label": "lucian-freud 1974"
         },
-        "year": 1974
+        "year": 1939
     },
     {
         "artist_name": "ludwig-knaus",
@@ -34566,7 +34738,7 @@
             "id": "2305",
             "label": "marcel-duchamp 1934"
         },
-        "year": 1934
+        "year": 1902
     },
     {
         "artist_name": "marcus-stone",
@@ -34694,7 +34866,7 @@
             "id": "2317",
             "label": "margaret-macdonald 1909"
         },
-        "year": 1909
+        "year": 1908
     },
     {
         "artist_name": "maria-blanchard",
@@ -35318,7 +35490,7 @@
             "id": "2365",
             "label": "mark-rothko 1947"
         },
-        "year": 1947
+        "year": 1934
     },
     {
         "artist_name": "mark-ryden",
@@ -35446,7 +35618,7 @@
             "id": "2372",
             "label": "marsden-hartley 1925"
         },
-        "year": 1925
+        "year": 1913
     },
     {
         "artist_name": "marten-eskil-winge",
@@ -35490,7 +35662,7 @@
             "id": "2373",
             "label": "marten-eskil-winge 1860"
         },
-        "year": 1860
+        "year": 1862
     },
     {
         "artist_name": "martin-benka",
@@ -35836,7 +36008,7 @@
             "id": "2393",
             "label": "mary-beale 1674"
         },
-        "year": 1674
+        "year": 1659
     },
     {
         "artist_name": "mary-cassatt",
@@ -36150,7 +36322,7 @@
             "id": "2420",
             "label": "maurice-poirson 1875"
         },
-        "year": 1875
+        "year": 1872
     },
     {
         "artist_name": "maurice-prendergast",
@@ -37078,7 +37250,7 @@
             "id": "2481",
             "label": "michelangelo 1526"
         },
-        "year": 1526
+        "year": 1487
     },
     {
         "artist_name": "mihaly-munkacsy",
@@ -37604,7 +37776,7 @@
             "id": "2528",
             "label": "morris-louis 1955"
         },
-        "year": 1955
+        "year": 1958
     },
     {
         "artist_name": "morteza-katouzian",
@@ -38082,7 +38254,7 @@
             "id": "2581",
             "label": "nicolae-grigorescu 1881"
         },
-        "year": 1881
+        "year": 1885
     },
     {
         "artist_name": "nicolae-vermont",
@@ -38176,7 +38348,7 @@
             "id": "2585",
             "label": "nicolaes-maes 1670"
         },
-        "year": 1670
+        "year": 1650
     },
     {
         "artist_name": "nicolas-antoine-taunay",
@@ -38215,7 +38387,7 @@
             "id": "2586",
             "label": "nicolas-antoine-taunay 1794"
         },
-        "year": 1794
+        "year": 1793
     },
     {
         "artist_name": "nicolas-poussin",
@@ -38281,7 +38453,7 @@
             "id": "2589",
             "label": "nicolas-poussin 1644"
         },
-        "year": 1644
+        "year": 1624
     },
     {
         "artist_name": "nicolas-tournier",
@@ -38415,7 +38587,7 @@
             "id": "2596",
             "label": "nikola-martinoski 1947"
         },
-        "year": 1947
+        "year": 1937
     },
     {
         "artist_name": "nikolai-ge",
@@ -38669,7 +38841,7 @@
             "id": "2611",
             "label": "noe-bordignon 1894"
         },
-        "year": 1894
+        "year": 1873
     },
     {
         "artist_name": "norman-rockwell",
@@ -38715,7 +38887,7 @@
             "id": "2617",
             "label": "norman-rockwell 1942"
         },
-        "year": 1942
+        "year": 1916
     },
     {
         "artist_name": "nuno-goncalves",
@@ -38757,7 +38929,7 @@
             "id": "2620",
             "label": "nuno-goncalves 1470"
         },
-        "year": 1470
+        "year": 1480
     },
     {
         "artist_name": "nuri-iyem",
@@ -39112,7 +39284,7 @@
             "id": "2642",
             "label": "olennikov-mikhail-zinovevich 1986"
         },
-        "year": 1986
+        "year": 1964
     },
     {
         "artist_name": "olga-rozanova",
@@ -39749,7 +39921,7 @@
             "id": "2688",
             "label": "pablo-picasso 1934"
         },
-        "year": 1934
+        "year": 1893
     },
     {
         "artist_name": "palma-vecchio",
@@ -39881,7 +40053,7 @@
             "id": "2697",
             "label": "paolo-uccello 1447"
         },
-        "year": 1447
+        "year": 1460
     },
     {
         "artist_name": "paolo-veronese",
@@ -40101,7 +40273,7 @@
             "id": "2706",
             "label": "patrick-caulfield 1977"
         },
-        "year": 1977
+        "year": 1963
     },
     {
         "artist_name": "patrick-heron",
@@ -40468,7 +40640,7 @@
             "id": "2723",
             "label": "paul-gauguin 1888"
         },
-        "year": 1888
+        "year": 1873
     },
     {
         "artist_name": "paul-jenkins",
@@ -40577,7 +40749,7 @@
             "id": "2730",
             "label": "paul-klee 1921"
         },
-        "year": 1921
+        "year": 1919
     },
     {
         "artist_name": "paul-nash",
@@ -41058,7 +41230,7 @@
             "id": "2761",
             "label": "pellizza-da-volpedo 1896"
         },
-        "year": 1896
+        "year": 1888
     },
     {
         "artist_name": "penry-williams",
@@ -41315,7 +41487,7 @@
             "id": "2782",
             "label": "petro-kholodny-elder 1920"
         },
-        "year": 1920
+        "year": 1919
     },
     {
         "artist_name": "petrus-christus",
@@ -41406,7 +41578,7 @@
             "id": "2785",
             "label": "petrus-van-schendel 1846"
         },
-        "year": 1846
+        "year": 1835
     },
     {
         "artist_name": "philip-guston",
@@ -42047,7 +42219,7 @@
             "id": "2821",
             "label": "piet-mondrian 1918"
         },
-        "year": 1918
+        "year": 1900
     },
     {
         "artist_name": "pieter-aertsen",
@@ -42637,7 +42809,7 @@
             "id": "2858",
             "label": "r-b-kitaj 1983"
         },
-        "year": 1983
+        "year": 1964
     },
     {
         "artist_name": "rachel-ruysch",
@@ -43097,7 +43269,7 @@
             "id": "2886",
             "label": "raphael 1509"
         },
-        "year": 1509
+        "year": 1500
     },
     {
         "artist_name": "raquel-forner",
@@ -43134,7 +43306,7 @@
             "id": "2887",
             "label": "raquel-forner 1955"
         },
-        "year": 1955
+        "year": 1922
     },
     {
         "artist_name": "rembrandt-peale",
@@ -43254,7 +43426,7 @@
             "id": "2899",
             "label": "rembrandt 1647"
         },
-        "year": 1647
+        "year": 1625
     },
     {
         "artist_name": "remedios-varo",
@@ -43426,7 +43598,7 @@
             "id": "2914",
             "label": "richard-caton-woodville-sr 1850"
         },
-        "year": 1850
+        "year": 1846
     },
     {
         "artist_name": "richard-diebenkorn",
@@ -43647,7 +43819,7 @@
             "id": "2923",
             "label": "richard-hamilton 1980"
         },
-        "year": 1980
+        "year": 1983
     },
     {
         "artist_name": "richard-lindner",
@@ -44015,7 +44187,7 @@
             "id": "2950",
             "label": "robert-delaunay 1922"
         },
-        "year": 1922
+        "year": 1904
     },
     {
         "artist_name": "robert-harris",
@@ -44262,6 +44434,50 @@
         "year": 1963
     },
     {
+        "artist_name": "robert-ryman",
+        "born": {
+            "date": "May 30, 1930",
+            "year": 1930,
+            "place": "Nashville, Tennessee, United States"
+        },
+        "died": {
+            "date": null,
+            "year": null,
+            "place": null
+        },
+        "active_years": {
+            "start": null,
+            "end": null
+        },
+        "nationality": [
+            "american"
+        ],
+        "artstyle": [
+            "minimalism"
+        ],
+        "painting_school": null,
+        "genre": [
+            "abstract"
+        ],
+        "field": [
+            "painting",
+            "printmaking",
+            "lithography",
+            "etching"
+        ],
+        "influenced_by": null,
+        "influenced_on": null,
+        "teachers": null,
+        "pupils": null,
+        "friends_and_coworkers": null,
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_Ryman\n",
+        "data": {
+            "id": "2976",
+            "label": "robert-ryman None"
+        },
+        "year": 1965
+    },
+    {
         "artist_name": "rockwell-kent",
         "born": {
             "date": "June 21, 1882",
@@ -44350,7 +44566,7 @@
             "id": "2993",
             "label": "rodolfo-amoedo 1902"
         },
-        "year": 1902
+        "year": 1882
     },
     {
         "artist_name": "roger-de-la-fresnaye",
@@ -44444,7 +44660,7 @@
             "id": "3001",
             "label": "rogier-van-der-weyden 1445"
         },
-        "year": 1445
+        "year": 1430
     },
     {
         "artist_name": "romualdo-locatelli",
@@ -44485,7 +44701,7 @@
             "id": "3011",
             "label": "romualdo-locatelli 1933"
         },
-        "year": 1933
+        "year": 1925
     },
     {
         "artist_name": "rosa-bonheur",
@@ -44583,7 +44799,7 @@
             "id": "3024",
             "label": "rosemarie-beck 1973"
         },
-        "year": 1973
+        "year": 1956
     },
     {
         "artist_name": "rosso-fiorentino",
@@ -44624,7 +44840,7 @@
             "id": "3027",
             "label": "rosso-fiorentino 1529"
         },
-        "year": 1529
+        "year": 1518
     },
     {
         "artist_name": "roy-lichtenstein",
@@ -44671,7 +44887,7 @@
             "id": "3028",
             "label": "roy-lichtenstein 1974"
         },
-        "year": 1974
+        "year": 1961
     },
     {
         "artist_name": "rudolf-ernst",
@@ -44854,7 +45070,7 @@
             "id": "3052",
             "label": "salomon-koninck 1644"
         },
-        "year": 1644
+        "year": 1632
     },
     {
         "artist_name": "salvador-dali",
@@ -44924,7 +45140,7 @@
             "id": "3054",
             "label": "salvador-dali 1952"
         },
-        "year": 1952
+        "year": 1914
     },
     {
         "artist_name": "salvator-rosa",
@@ -45324,7 +45540,7 @@
             "id": "3070",
             "label": "sandro-botticelli 1485"
         },
-        "year": 1485
+        "year": 1470
     },
     {
         "artist_name": "santiago-rusinol",
@@ -45500,7 +45716,7 @@
             "id": "3088",
             "label": "sebastien-bourdon 1653"
         },
-        "year": 1653
+        "year": 1668
     },
     {
         "artist_name": "sedrak-arakelyan",
@@ -46112,7 +46328,7 @@
             "id": "3143",
             "label": "sofonisba-anguissola 1590"
         },
-        "year": 1590
+        "year": 1555
     },
     {
         "artist_name": "sonia-delaunay",
@@ -46343,7 +46559,7 @@
             "id": "3182",
             "label": "stuart-davis 1938"
         },
-        "year": 1938
+        "year": 1928
     },
     {
         "artist_name": "suzanne-valadon",
@@ -46521,7 +46737,7 @@
             "id": "3209",
             "label": "taras-shevchenko 1843"
         },
-        "year": 1843
+        "year": 1842
     },
     {
         "artist_name": "tarsila-do-amaral",
@@ -46612,7 +46828,7 @@
             "id": "3215",
             "label": "telemaco-signorini 1877"
         },
-        "year": 1877
+        "year": 1864
     },
     {
         "artist_name": "tetyana-yablonska",
@@ -46882,7 +47098,7 @@
             "id": "3232",
             "label": "theodor-severin-kittelsen 1897"
         },
-        "year": 1897
+        "year": 1888
     },
     {
         "artist_name": "theodore-chasseriau",
@@ -46980,7 +47196,7 @@
             "id": "3234",
             "label": "theodore-gericault 1816"
         },
-        "year": 1816
+        "year": 1810
     },
     {
         "artist_name": "theodore-robinson",
@@ -47378,7 +47594,7 @@
             "id": "3251",
             "label": "thomas-gainsborough 1762"
         },
-        "year": 1762
+        "year": 1745
     },
     {
         "artist_name": "thomas-hart-benton",
@@ -47559,7 +47775,7 @@
             "id": "3261",
             "label": "thomas-moran 1890"
         },
-        "year": 1890
+        "year": 1900
     },
     {
         "artist_name": "thomas-pollock-anshutz",
@@ -47646,7 +47862,7 @@
             "id": "3265",
             "label": "thomas-stuart-smith 1854"
         },
-        "year": 1854
+        "year": 1867
     },
     {
         "artist_name": "thomas-sully",
@@ -47688,7 +47904,7 @@
             "id": "3266",
             "label": "thomas-sully 1833"
         },
-        "year": 1833
+        "year": 1807
     },
     {
         "artist_name": "tintoretto",
@@ -47816,7 +48032,7 @@
             "id": "3273",
             "label": "titian 1540"
         },
-        "year": 1540
+        "year": 1503
     },
     {
         "artist_name": "tivadar-kosztka-csontvary",
@@ -48068,7 +48284,7 @@
             "id": "3303",
             "label": "tranquillo-cremona 1865"
         },
-        "year": 1865
+        "year": 1858
     },
     {
         "artist_name": "tsuguharu-foujita",
@@ -48300,7 +48516,7 @@
             "id": "3334",
             "label": "vardges-sureniants 1898"
         },
-        "year": 1898
+        "year": 1895
     },
     {
         "artist_name": "vartan-mahokian",
@@ -48682,7 +48898,7 @@
             "id": "3357",
             "label": "vicente-juan-masip 1562"
         },
-        "year": 1562
+        "year": 1538
     },
     {
         "artist_name": "victor-borisov-musatov",
@@ -48767,7 +48983,7 @@
             "id": "3362",
             "label": "victor-brauner 1942"
         },
-        "year": 1942
+        "year": 1935
     },
     {
         "artist_name": "victor-pasmore",
@@ -49139,7 +49355,7 @@
             "id": "3386",
             "label": "vincent-van-gogh 1885"
         },
-        "year": 1885
+        "year": 1881
     },
     {
         "artist_name": "vincenzo-abbati",
@@ -49432,7 +49648,7 @@
             "id": "3396",
             "label": "vittorio-tessari 1911"
         },
-        "year": 1911
+        "year": 1885
     },
     {
         "artist_name": "vladimir-borovikovsky",
@@ -49479,7 +49695,7 @@
             "id": "3400",
             "label": "vladimir-borovikovsky 1807"
         },
-        "year": 1807
+        "year": 1794
     },
     {
         "artist_name": "vladimir-loboda",
@@ -49657,7 +49873,7 @@
             "id": "3406",
             "label": "vladimir-tretchikoff 1971"
         },
-        "year": 1971
+        "year": 1943
     },
     {
         "artist_name": "vrabic",
@@ -49837,7 +50053,7 @@
             "id": "3423",
             "label": "walter-gramatte 1922"
         },
-        "year": 1922
+        "year": 1915
     },
     {
         "artist_name": "walter-sickert",
@@ -49966,7 +50182,7 @@
             "id": "3434",
             "label": "wassily-kandinsky 1920"
         },
-        "year": 1920
+        "year": 1902
     },
     {
         "artist_name": "wayne-thiebaud",
@@ -50133,7 +50349,7 @@
             "id": "3443",
             "label": "wilhelm-leibl 1880"
         },
-        "year": 1880
+        "year": 1879
     },
     {
         "artist_name": "wilhelm-trubner",
@@ -50414,7 +50630,7 @@
             "id": "3451",
             "label": "willem-kalf 1658"
         },
-        "year": 1658
+        "year": 1669
     },
     {
         "artist_name": "willi-baumeister",
@@ -50462,7 +50678,7 @@
             "id": "3455",
             "label": "willi-baumeister 1930"
         },
-        "year": 1930
+        "year": 1955
     },
     {
         "artist_name": "william-adolphe-bouguereau",
@@ -51424,7 +51640,7 @@
             "id": "3524",
             "label": "yiannis-moralis 1970"
         },
-        "year": 1970
+        "year": 1934
     },
     {
         "artist_name": "yulia-mamontova",
@@ -51644,7 +51860,7 @@
             "id": "3547",
             "label": "zdzislaw-beksinski 1980"
         },
-        "year": 1980
+        "year": 1978
     },
     {
         "artist_name": "zinaida-serebriakova",
