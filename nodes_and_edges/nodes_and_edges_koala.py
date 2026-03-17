@@ -16,6 +16,32 @@ def create_cluster_data(node_data):
     
     return cluster
 
+# 正解データを読み込む
+def load_gt_edges():
+    gt_path = "/Users/r.o/Documents/color_network/Art-Evolution-Viewer/create_data/ReferenceNetworkAnalysis/InfluenceNetowrk_oil.txt"
+    id_path = "/Users/r.o/Documents/color_network/Art-Evolution-Viewer/data/artist_and_ids.json"
+
+    with open(id_path) as f:
+        name_to_id = json.load(f)
+
+    gt_id_set = set()
+
+    with open(gt_path) as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+
+            child_name, _, parent_name = line.split("\t")
+
+            # ID に変換できるものだけ使う
+            if child_name in name_to_id and parent_name in name_to_id:
+                child_id = name_to_id[child_name]
+                parent_id = name_to_id[parent_name]
+                gt_id_set.add((child_id, parent_id))
+
+    return gt_id_set
+
 ### nodeのデータを作る
 # data      : id, label, color, display, highlightからなる
 # poaition  : 座標の位置を整数で示したもの。x, yの属性を持つ
@@ -72,42 +98,55 @@ def create_nodes_for_cyto(node_data, clusters, dir_path, coloring_method):
 
     return nodes
 
-### Koalaのnode_idの一覧. KoalaのIDから、ノードデータのIDを検索する。
-def make_node_id_in_Koala(node_data, dir_path):
-    # 画家データを読み込む
-    with open(dir_path+'/node_dict.json') as f:
-        artist_dict = json.load(f)
-    
-    # Koala内のノードidと対応させる
-    node_id_Koala = {}
-    for node in node_data:
-        for artist in artist_dict:
-            if artist['artist_name'] == node[4]:
-                node_id_Koala[node[0]] = {'name': node[4], 'id': artist['data']['id']}
-    
-    return node_id_Koala
-
-
-
 ### エッジのデータを作る
 # data      : source, targetの属性を持つ。各々エッジの始点と終点を表すIDを格納している。
 ###
-def create_edges_for_cyto(edge_data, node_id):
-    edges = []
-    for i in range(len(edge_data)):
-        edge = {}
-        data = {}
-
-        source_id = edge_data[i][1]
-        target_id = edge_data[i][2]
-
-        # 始点ノードと終点ノードのidを追加
-        data['source'] = node_id[source_id]['id']
-        data['target'] = node_id[target_id]['id']
-        edge['data'] = data
-        edges.append(edge)
+def create_edges_for_cyto(dir_path):
+    with open(dir_path + '/edge_dict.json') as f2:
+        edges = json.load(f2)
     
+    gt_set = load_gt_edges()
+    
+    if gt_set is None:
+        return edges
+
+    for edge in edges:
+        child = edge["data"]["target"]
+        parent = edge["data"]["source"]
+
+        # 正解データに含まれるか？
+        if (child, parent) in gt_set:
+            edge["data"]["color"] = "red"
+            edge["data"]["width"] = 10
+            edge["data"]["index"] = 9999
+            edge["data"]["weight"] += 1
+        else :
+            edge["data"]["color"] = weight_to_gray_color(edge["data"]["weight"])
+            edge["data"]["width"] = 1 + 2*edge["data"]["weight"]
+            edge["data"]["index"] = 0
+
     return edges
+
+### グレーの色をエッジの重みで作成する
+def weight_to_gray_color(weight, gamma=1.2):
+    """
+    weight: 0〜1
+    背景 #F0F0F0 (240) より必ず濃く表示されるグレーを返す
+    """
+
+    # クリップ
+    w = max(0.0, min(weight, 1.0))
+
+    # 非線形（低重みをさらに薄く）
+    w_gamma = w ** gamma
+
+    # グレー範囲
+    gray_min = 0    # 濃い側（はっきり）
+    gray_max = 200   # ← 背景(240)より確実に濃い
+
+    gray = int(gray_max - w_gamma * (gray_max - gray_min))
+
+    return f"rgb({gray}, {gray}, {gray})"
 
 
 ### csvファイルを読み込み、ノードとエッジのデータを作る
@@ -131,16 +170,6 @@ def csv_reader_koala(dir_path, csv_path, coloring):
     # データの成形
     clusters = create_cluster_data(node_data)
     nodes = create_nodes_for_cyto(node_data, clusters, dir_path, coloring)
-    node_id = make_node_id_in_Koala(node_data, dir_path)
-    edges = create_edges_for_cyto(edge_data, node_id)
-
-    # エッジデータを読み込む
-    #with open(dir_path+'/edge_dict.json') as f:
-    #    edges = json.load(f)
-
+    edges = create_edges_for_cyto(dir_path)
 
     return nodes, edges
-
-
-if __name__ == '__main__':
-    csv_reader_koala()

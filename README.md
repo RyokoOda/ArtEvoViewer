@@ -3,7 +3,7 @@
 This is a system for visualizing the influence relationships between Western artists.
 <br>
 <br>
-![The system overview](./overview.png)
+![The system overview](./ArtEvoViewer_overview.png)
 <br>
 <br>
 ## How to run

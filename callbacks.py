@@ -121,52 +121,113 @@ def get_cached_elements(directory, network, method, coloring):
     return n_and_e.nodes , n_and_e.edges
 
 ### エゴネットワーク取得
-# ノードを取得
-def get_ego_nodes(current_node, cache_elements):
-    ego_nodes = [current_node]
+import copy
 
-    # 親のネットワークを辿る
-    reference_node = current_node
-    while 'parents' in reference_node:
-        parents_id = reference_node['parents']['id']
-        parents_node = find_node_by_id(parents_id, cache_elements)
-        ego_nodes.append(parents_node)
-        reference_node = parents_node
-    
-    # 子のネットワークを辿る
-    reference_nodes = [current_node]
-    
-    while reference_nodes != []:
-        reference_node = reference_nodes.pop()
+def _is_edge(el):
+    d = el.get("data", {})
+    return ("source" in d) and ("target" in d)
 
-        if 'children' in reference_node:
-            children = reference_node['children']
-            for child in children:
-                child_id = child['id']
-                child_node = find_node_by_id(child_id, cache_elements)
-                ego_nodes.append(child_node)
-                reference_nodes.append(child_node)
-        else:
+def _edge_is_visible(e):
+    d = e.get("data", {})
+    # あなたの方式：display='none' は除外
+    if d.get("display", "element") == "none":
+        return False
+    # visible 方式併用ならこれも
+    v = d.get("visible", None)
+    if v in (False, "False", 0, "0"):
+        return False
+    return True
+
+def build_single_parent_maps(elements):
+    """
+    elements（全体、スライダー等反映済み）から
+    各ノードの「最強親(重み最大)」を1本だけ選び、
+    parent_of と children_of を作る
+    """
+    nodes = [el for el in elements if not _is_edge(el)]
+    edges = [el for el in elements if _is_edge(el) and _edge_is_visible(el)]
+
+    node_by_id = {str(n["data"]["id"]): n for n in nodes}
+
+    # targetごとに最強incoming edge を1本選ぶ
+    best_in = {}  # target_id -> edge
+    for e in edges:
+        s = str(e["data"]["source"])
+        t = str(e["data"]["target"])
+        if t not in node_by_id or s not in node_by_id:
             continue
-    
-    # id順で並び替え
-    ego_nodes = sorted(ego_nodes, key=lambda x: int(x['data']['id']))
+        w = float(e["data"].get("weight", 0.0))
 
-    return ego_nodes
+        if t not in best_in:
+            best_in[t] = e
+        else:
+            w_prev = float(best_in[t]["data"].get("weight", 0.0))
+            # tie-break（同率なら source id が小さい方、など）で安定化
+            if (w > w_prev) or (w == w_prev and int(s) < int(best_in[t]["data"]["source"])):
+                best_in[t] = e
 
-# エッジを取得
-def get_ego_edges(ego_nodes, elements):
-    ego_node_ids = set()
-    for ego_node in ego_nodes:
-        ego_node_ids.add(ego_node['data']['id'])
-    
+    parent_of = {}    # child -> parent
+    children_of = {}  # parent -> [child,...]
+    for t, e in best_in.items():
+        s = str(e["data"]["source"])
+        parent_of[t] = s
+        children_of.setdefault(s, []).append(t)
+
+    # 子リストも安定化（見た目の揺れ防止）
+    for p in children_of:
+        children_of[p].sort(key=lambda x: int(x))
+
+    return node_by_id, best_in, parent_of, children_of
+
+def build_ego_single_parent(center_id, elements):
+    """
+    単体親ネットワークと同じ挙動のエゴ：
+      - 親：1本チェーン（最強親のみ）
+      - 子：単体親ネットワーク上の子（＝children_of）を再帰的に全部
+      - 使うエッジも「最強親として選ばれた1本」だけ
+      - 参照元は elements-store（全体）なので一本道固定バグが出ない
+    """
+    center_id = str(center_id)
+    node_by_id, best_in, parent_of, children_of = build_single_parent_maps(elements)
+
+    if center_id not in node_by_id:
+        return [], []
+
+    ego_ids = set([center_id])
+
+    # 親チェーン（最強親のみ）
+    cur = center_id
+    while cur in parent_of:
+        p = parent_of[cur]
+        if p in ego_ids:
+            break
+        ego_ids.add(p)
+        cur = p
+
+    # 子孫（単体親ネットワークの子だけ）
+    stack = [center_id]
+    while stack:
+        nid = stack.pop()
+        for c in children_of.get(nid, []):
+            if c in ego_ids:
+                continue
+            ego_ids.add(c)
+            stack.append(c)
+
+    # ノード・エッジ（単体親の採用エッジのみ）
+    ego_nodes = [copy.deepcopy(node_by_id[_id]) for _id in ego_ids]
+    ego_nodes.sort(key=lambda x: int(x["data"]["id"]))
+
     ego_edges = []
-    for element in elements:
-        if 'source' in element['data']:
-            if element['data']['source'] in ego_node_ids and element['data']['target'] in ego_node_ids:
-                ego_edges.append(element)
-    
-    return ego_edges
+    for child_id in ego_ids:
+        if child_id in best_in:
+            e = best_in[child_id]
+            s = str(e["data"]["source"])
+            t = str(e["data"]["target"])
+            if s in ego_ids and t in ego_ids:
+                ego_edges.append(copy.deepcopy(e))
+
+    return ego_nodes, ego_edges
 
 # ラベルを検索ように正規化する
 def normalize_label(label: str) -> str:
@@ -187,7 +248,8 @@ def register_callbacks(app, picture_dict, default_elements):
     # 可視化手法の切り替え
     @app.callback(
         Output('elements-store', 'data', allow_duplicate=True),
-        [Input('directory-dropdown', 'value'), Input('method-dropdown', 'value'), Input('coloring-dropdown', 'value'), Input('weight-slider', 'value')],
+        Output('graph', 'elements', allow_duplicate=True),
+        [Input('directory-dropdown', 'value'), Input('method-dropdown', 'value'), Input('coloring-dropdown', 'value'), State('weight-slider', 'value')],
         prevent_initial_call=True
         )
     def update_elements_store(selected_network, selected_method, selected_coloring, weight):
@@ -197,37 +259,27 @@ def register_callbacks(app, picture_dict, default_elements):
                 e['data']['display'] = "True"
             else:
                 e['data']['display'] = "False"
-        return updated_nodes + updated_edges
+        return updated_nodes + updated_edges, updated_nodes + updated_edges
 
     # ネットワークリセット
     # TODO: なぜか場所が保存されたままなので、場所も元の位置に戻せるようにする
     @app.callback(
-        Output('elements-store', 'data', allow_duplicate=True),
+        Output('graph', 'elements', allow_duplicate=True),
         Input("reset-button", "n_clicks"),
         State('directory-dropdown', 'value'),
         State('method-dropdown', 'value'),
         Input('coloring-dropdown', 'value'),
+        State('weight-slider', 'value'),
         prevent_initial_call=True
         )
-    def reset_network(n_clicks, selected_network, selected_method, selected_coloring):
+    def reset_network(n_clicks, selected_network, selected_method, selected_coloring, weight):
         updated_nodes, updated_edges = get_cached_elements(selected_directory, selected_network, selected_method, selected_coloring)
+        for e in updated_edges:
+            if float(e['data'].get('weight', 0)) >= weight:
+                e['data']['display'] = "True"
+            else:
+                e['data']['display'] = "False"
         return updated_nodes + updated_edges
-
-    # elementsの更新があったらグラフに適用
-    @app.callback(
-        Output('graph', 'elements'),
-        Input('elements-store', 'data')
-    )
-    def update_graph_elements(elements):
-        return copy.deepcopy(elements)
-
-    @app.callback(
-        Output('graph', 'layout'),
-        Input('elements-store', 'data')
-    )
-    def refresh_graph_layout(_):
-        # ユニークなIDを使用してレイアウトを強制的に更新する
-        return {'name': 'preset', 'animate': True, 'timestamp': time.time()}
     
     ### 画家情報のアノテーション
     # ホバーで画家のデータを表示
@@ -438,58 +490,23 @@ def register_callbacks(app, picture_dict, default_elements):
         
         return None
     
-    # クリックでエゴネットワークを強調
+    ### エゴネットワークの表示
     @app.callback(
-        Output('elements-store', 'data', allow_duplicate=True),
-        [Input('graph', 'tapNodeData'),
-         Input('ego-checkbox', 'value')],
-        State('graph', 'elements'),          # 現在のelements
-        State('directory-dropdown', 'value'),
-        State('method-dropdown', 'value'),
-        Input('coloring-dropdown', 'value'),
-        prevent_initial_call=True,
+        Output('graph', 'elements', allow_duplicate=True),
+        [Input('graph', 'tapNodeData'), Input('ego-checkbox', 'value')],
+        State('graph', 'elements'),
+        State('elements-store', 'data'),
+        prevent_initial_call=True
     )
-    def highlight_ego_nodes(current_element, checkbox, elements, selected_network, selected_method, selected_coloring):
-        
+    def render_graph_elements(current_element, checkbox, current_elements, all_elements):
         if not checkbox:
-            return elements
-
+            return current_elements
         if not current_element:
-            return elements
-        
-        updated_nodes, updated_edges = get_cached_elements(selected_directory, selected_network, selected_method, selected_coloring)
-        cache_elements = updated_nodes + updated_edges
-        
-        current_node = find_node_by_id(current_element['id'], cache_elements)
-        
-        # エゴネットワークを取得
-        ego_nodes = get_ego_nodes(current_node, cache_elements)
-        ego_edges = get_ego_edges(ego_nodes, cache_elements)
-
-        # グラフの色を変える
-        # まずは全てのノードをグレーにする
-        # 新しいオブジェクトに対して変更するため、ディープコピーを作成
-        new_ego_nodes = copy.deepcopy(ego_nodes)
-        new_ego_edges = copy.deepcopy(ego_edges)
-        i = 0 # エゴネットワークの参照しているノード
-        for element in new_ego_nodes:
-            ego_id = element['data']['id']
-
-            # ego_id に対応する cache_element を検索
-            cache_element = next((ce for ce in cache_elements if ce['data']['id'] == ego_id), None)
-
-            if not cache_element:
-                print(f"Warning: ego_id {ego_id} not found in cache_elements.")
-                continue
-
-            element['data']['color'] = cache_element['data']['color']
-            element['position'] = cache_element['position']
-            element['data']['highlight'] = 60
-            i += 1 # 該当のノードが見つかったので、次のノードを探索する
-            if i == len(new_ego_nodes):
-                i -= 1
-
-        return new_ego_nodes + new_ego_edges
+            return current_elements
+        ego_nodes, ego_edges = build_ego_single_parent(str(current_element.get('id')), all_elements)
+        for n in ego_nodes:
+            n['data']['highlight'] = 60
+        return ego_nodes + ego_edges
 
     ### 検索ボックスで該当の画家を強調
     # TODO 元の色に戻すとき、エッジがつながっていないノードも戻す
@@ -548,9 +565,9 @@ def register_callbacks(app, picture_dict, default_elements):
     
     ### エッジを重みでフィルター
     @app.callback(
-        Output('elements-store', 'data'),
+        Output('graph', 'elements'),
         Input('weight-slider', 'value'),
-        State('elements-store', 'data')
+        State('graph', 'elements'),
     )
     def filter_edges_by_weight(threshold, elements):
 
@@ -566,4 +583,5 @@ def register_callbacks(app, picture_dict, default_elements):
                 e['data']['display'] = "False"
 
         new_elements = nodes + edges
+
         return new_elements

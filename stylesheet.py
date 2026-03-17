@@ -14,6 +14,7 @@ my_stylesheet = [
             'border-color': 'gray',       # 縁の色
             'border-opacity': 1,          # 不透明度（0〜1）
             'border-style': 'solid',      # 線種（solid, dotted, dashed…）
+            'background-opacity': 0.7
         }
     },
     {
@@ -22,6 +23,14 @@ my_stylesheet = [
             'display': 'none'
         }
     },
+    {
+        'selector': 'edge',
+        'style': {
+            'line-color': 'data(color)',
+            'width' : 'data(width)',
+            'z-index' : 'data(index)',
+        }
+    }
 ]
 
 CSSSTYLES = {

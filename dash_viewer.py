@@ -52,7 +52,7 @@ DIRECTORIS = [{'label': 'color', 'value': 'color_only'},
 
 VISUALIZATION_METHODS = [{'label': 'HierarchyTree', 'value': 'HierarchyTree'},
                          {'label': 'HierarchyTreeYear', 'value': 'HierarchyTreeYear'},
-                         #{'label': 'Koala', 'value': 'Koala'},
+                         {'label': 'Koala', 'value': 'Koala'},
                          {'label': 'RadialTree', 'value': 'RadialTree'}
                          ]
 
@@ -65,6 +65,8 @@ COLORING = [{'label': 'year', 'value': 'year'},
 app.layout = html.Div(style=css['app'],children=[
     dcc.Store(id='elements-store', data=DEFAULT_ELEMENTS),  # デフォルトelementsを保存
     dcc.Location(id='url', refresh=True),
+    dcc.Store(id='ego-center-id', data=None),
+    dcc.Store(id='ego-elements-store', data=None),
 
     # ダミー
     html.Div(id='dummy-output'),

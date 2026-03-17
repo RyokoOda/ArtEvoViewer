@@ -16,6 +16,31 @@ def get_color(year):
     # フォーマットを直して返す
     return f'rgb({int(rgba[0]*255)}, {int(rgba[1]*255)}, {int(rgba[2]*255)})'
 
+# 正解データを読み込む
+def load_gt_edges():
+    gt_path = "/Users/r.o/Documents/color_network/Art-Evolution-Viewer/create_data/ReferenceNetworkAnalysis/InfluenceNetowrk_oil.txt"
+    id_path = "/Users/r.o/Documents/color_network/Art-Evolution-Viewer/data/artist_and_ids.json"
+
+    with open(id_path) as f:
+        name_to_id = json.load(f)
+
+    gt_id_set = set()
+
+    with open(gt_path) as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+
+            child_name, _, parent_name = line.split("\t")
+
+            # ID に変換できるものだけ使う
+            if child_name in name_to_id and parent_name in name_to_id:
+                child_id = name_to_id[child_name]
+                parent_id = name_to_id[parent_name]
+                gt_id_set.add((child_id, parent_id))
+
+    return gt_id_set
 
 ### nodeのデータを作る
 # data      : id, label, color, display, highlightからなる
@@ -53,6 +78,50 @@ def create_nodes_for_cyto(nodes, position_radialtree, coloring_method):
     return nodes
 
 
+def create_edges_for_cyto(edges, gt_set=None):
+
+    if gt_set is None:
+        return edges
+
+    for edge in edges:
+        child = edge["data"]["target"]
+        parent = edge["data"]["source"]
+
+        # 正解データに含まれるか？
+        if (child, parent) in gt_set:
+            edge["data"]["color"] = "red"
+            edge["data"]["width"] = 10
+            edge["data"]["index"] = 9999
+            edge["data"]["weight"] += 1
+        else :
+            edge["data"]["color"] = weight_to_gray_color(edge["data"]["weight"])
+            edge["data"]["width"] = 1 + 2*edge["data"]["weight"]
+            edge["data"]["index"] = 0
+
+    return edges
+
+### グレーの色をエッジの重みで作成する
+def weight_to_gray_color(weight, gamma=1.2):
+    """
+    weight: 0〜1
+    背景 #F0F0F0 (240) より必ず濃く表示されるグレーを返す
+    """
+
+    # クリップ
+    w = max(0.0, min(weight, 1.0))
+
+    # 非線形（低重みをさらに薄く）
+    w_gamma = w ** gamma
+
+    # グレー範囲
+    gray_min = 0    # 濃い側（はっきり）
+    gray_max = 200   # ← 背景(240)より確実に濃い
+
+    gray = int(gray_max - w_gamma * (gray_max - gray_min))
+
+    return f"rgb({gray}, {gray}, {gray})"
+
+
 def create_elements_radialtree(dir_path, json_path, coloring):
 
     ### ノードとエッジのデータを読み込む
@@ -66,6 +135,11 @@ def create_elements_radialtree(dir_path, json_path, coloring):
     with open(json_path) as f3:
         position_radialtree = json.load(f3)
     
-    nodes_for_network = create_nodes_for_cyto(nodes, position_radialtree, coloring)
+    # 正解データを読み込む
+    gt_set = load_gt_edges()
 
-    return nodes_for_network, edges
+    # ノードとエッジを作り替える
+    nodes_for_network = create_nodes_for_cyto(nodes, position_radialtree, coloring)
+    edges_for_network = create_edges_for_cyto(edges, gt_set)
+
+    return nodes_for_network, edges_for_network
